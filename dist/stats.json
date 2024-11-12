@@ -1,8 +1,8 @@
 {
-  "hash": "64edc07e8a25fd3824fe",
+  "hash": "1b497dd759f5714253c0",
   "version": "5.96.1",
-  "time": 5615,
-  "builtAt": 1731408356455,
+  "time": 5824,
+  "builtAt": 1731417953286,
   "publicPath": "/",
   "outputPath": "/home/mohammad/Desktop/Projects/aimoonx-dev/dist",
   "assetsByChunkName": {},
@@ -99,6 +99,32 @@
       "info": {
         "sourceFilename": "assets/icons/svg/loading.gif",
         "size": 72919
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "main"
+      ],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [],
+      "auxiliaryChunks": [
+        792
+      ],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "3ee00883a9701befc8be.TTF",
+      "size": 60576,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "sourceFilename": "assets/fonts/Yekan_Bakh_Fanum_Regular.TTF",
+        "immutable": true,
+        "contenthash": "3ee00883a9701befc8be",
+        "size": 60576
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -526,6 +552,27 @@
     },
     {
       "type": "asset",
+      "name": "main.dc966c30401cadcdaec3.js.gz",
+      "size": 6767,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "compressed": true,
+        "immutable": true,
+        "size": 6767
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
       "name": "767.ca1fa61203b70fe38742.js",
       "size": 6742,
       "emitted": false,
@@ -553,15 +600,15 @@
     },
     {
       "type": "asset",
-      "name": "main.52ae072b7d3e4adfb260.js.gz",
-      "size": 6568,
+      "name": "333.30e702d5bd180cb83474.js.gz",
+      "size": 5770,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "compressed": true,
         "immutable": true,
-        "size": 6568
+        "size": 5770
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -637,13 +684,13 @@
     {
       "type": "asset",
       "name": "service-worker.js",
-      "size": 3482,
+      "size": 3530,
       "emitted": true,
-      "comparedForEmit": true,
+      "comparedForEmit": false,
       "cached": false,
       "info": {
         "minimized": true,
-        "size": 3482
+        "size": 3530
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -720,12 +767,12 @@
     {
       "type": "asset",
       "name": "index.html",
-      "size": 1288,
+      "size": 1277,
       "emitted": true,
-      "comparedForEmit": true,
+      "comparedForEmit": false,
       "cached": false,
       "info": {
-        "size": 1288
+        "size": 1277
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -808,17 +855,17 @@
     },
     {
       "type": "asset",
-      "name": "75.b9f40e618ff7f7267e1b.js",
-      "size": 392,
+      "name": "75.b6b38a6b584961a5ab52.js",
+      "size": 400,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "contenthash": "b9f40e618ff7f7267e1b",
+        "contenthash": "b6b38a6b584961a5ab52",
         "javascriptModule": false,
         "minimized": true,
-        "size": 392
+        "size": 400
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -880,31 +927,6 @@
       ],
       "auxiliaryChunks": [],
       "isOverSizeLimit": false
-    },
-    {
-      "type": "asset",
-      "name": "333.533f67d5d8c16e286de6.js",
-      "size": 255,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": true,
-      "info": {
-        "immutable": true,
-        "contenthash": "533f67d5d8c16e286de6",
-        "javascriptModule": false,
-        "minimized": true,
-        "size": 255
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [],
-      "auxiliaryChunkIdHints": [],
-      "related": [],
-      "chunks": [
-        333
-      ],
-      "auxiliaryChunks": [],
-      "isOverSizeLimit": false
     }
   ],
   "chunks": [
@@ -913,9 +935,9 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "size": 542,
+      "size": 550,
       "sizes": {
-        "javascript": 542
+        "javascript": 550
       },
       "names": [],
       "idHints": [],
@@ -923,10 +945,10 @@
         "main"
       ],
       "files": [
-        "75.b9f40e618ff7f7267e1b.js"
+        "75.b6b38a6b584961a5ab52.js"
       ],
       "auxiliaryFiles": [],
-      "hash": "6997f073b96604f65575",
+      "hash": "0f201e2bd1da008e0f80",
       "childrenByOrder": {},
       "id": 75,
       "siblings": [],
@@ -941,9 +963,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 542,
+          "size": 550,
           "sizes": {
-            "javascript": 542
+            "javascript": 550
           },
           "built": true,
           "codeGenerated": true,
@@ -952,10 +974,10 @@
           "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
           "name": "./src/app/containers/app/Content.js",
           "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
-          "index": 55,
-          "preOrderIndex": 55,
-          "index2": 55,
-          "postOrderIndex": 55,
+          "index": 56,
+          "preOrderIndex": 56,
+          "index2": 56,
+          "postOrderIndex": 56,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -1037,20 +1059,18 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "size": 248,
+      "size": 15488,
       "sizes": {
-        "javascript": 248
+        "javascript": 15488
       },
       "names": [],
       "idHints": [],
       "runtime": [
         "main"
       ],
-      "files": [
-        "333.533f67d5d8c16e286de6.js"
-      ],
+      "files": [],
       "auxiliaryFiles": [],
-      "hash": "550069aad41c94a022d0",
+      "hash": "9cf59e51da48ef78f837",
       "childrenByOrder": {},
       "id": 333,
       "siblings": [],
@@ -1063,9 +1083,247 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 248,
+          "size": 8216,
           "sizes": {
-            "javascript": 248
+            "javascript": 8216
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/aimoonxall.svg",
+          "name": "./assets/icons/svg/aimoonxall.svg",
+          "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/aimoonxall.svg",
+          "index": 58,
+          "preOrderIndex": 58,
+          "index2": 57,
+          "postOrderIndex": 57,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "issuerName": "./src/features/auth/AuthLanding.js",
+          "issuerPath": [
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/App.js",
+              "name": "./src/app/containers/app/App.js",
+              "id": null
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/middleware/Middleware.js",
+              "name": "./src/app/middleware/Middleware.js",
+              "id": 868
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Landing.js",
+              "name": "./src/app/containers/app/Landing.js",
+              "id": 741
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "name": "./src/app/containers/app/Content.js",
+              "id": 75
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "name": "./src/features/auth/AuthLanding.js",
+              "id": 333
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 750,
+          "issuerId": 333,
+          "chunks": [
+            333
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "module": "./src/features/auth/AuthLanding.js",
+              "moduleName": "./src/features/auth/AuthLanding.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "resolvedModule": "./src/features/auth/AuthLanding.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../../assets/icons/svg/aimoonxall.svg",
+              "loc": "4:0-66",
+              "moduleId": 333,
+              "resolvedModuleId": 333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "module": "./src/features/auth/AuthLanding.js",
+              "moduleName": "./src/features/auth/AuthLanding.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "resolvedModule": "./src/features/auth/AuthLanding.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../../assets/icons/svg/aimoonxall.svg",
+              "loc": "13:9-19",
+              "moduleId": 333,
+              "resolvedModuleId": 333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/aimoonxall.svg",
+              "module": "./assets/icons/svg/aimoonxall.svg",
+              "moduleName": "./assets/icons/svg/aimoonxall.svg",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/aimoonxall.svg",
+              "resolvedModule": "./assets/icons/svg/aimoonxall.svg",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "1:0-14",
+              "moduleId": 750,
+              "resolvedModuleId": 750
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 1:0-14",
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-8216",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 6
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 5755,
+          "sizes": {
+            "javascript": 5755
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/persona_landing.svg",
+          "name": "./assets/icons/svg/persona_landing.svg",
+          "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/persona_landing.svg",
+          "index": 59,
+          "preOrderIndex": 59,
+          "index2": 58,
+          "postOrderIndex": 58,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "issuerName": "./src/features/auth/AuthLanding.js",
+          "issuerPath": [
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/App.js",
+              "name": "./src/app/containers/app/App.js",
+              "id": null
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/middleware/Middleware.js",
+              "name": "./src/app/middleware/Middleware.js",
+              "id": 868
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Landing.js",
+              "name": "./src/app/containers/app/Landing.js",
+              "id": 741
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "name": "./src/app/containers/app/Content.js",
+              "id": 75
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "name": "./src/features/auth/AuthLanding.js",
+              "id": 333
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 942,
+          "issuerId": 333,
+          "chunks": [
+            333
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "module": "./src/features/auth/AuthLanding.js",
+              "moduleName": "./src/features/auth/AuthLanding.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "resolvedModule": "./src/features/auth/AuthLanding.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../../assets/icons/svg/persona_landing.svg",
+              "loc": "5:0-76",
+              "moduleId": 333,
+              "resolvedModuleId": 333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "module": "./src/features/auth/AuthLanding.js",
+              "moduleName": "./src/features/auth/AuthLanding.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "resolvedModule": "./src/features/auth/AuthLanding.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../../assets/icons/svg/persona_landing.svg",
+              "loc": "24:9-24",
+              "moduleId": 333,
+              "resolvedModuleId": 333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/persona_landing.svg",
+              "module": "./assets/icons/svg/persona_landing.svg",
+              "moduleName": "./assets/icons/svg/persona_landing.svg",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/persona_landing.svg",
+              "resolvedModule": "./assets/icons/svg/persona_landing.svg",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "1:0-14",
+              "moduleId": 942,
+              "resolvedModuleId": 942
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 1:0-14",
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-5755",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 6
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 1517,
+          "sizes": {
+            "javascript": 1517
           },
           "built": true,
           "codeGenerated": true,
@@ -1074,10 +1332,10 @@
           "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
           "name": "./src/features/auth/AuthLanding.js",
           "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
-          "index": 56,
-          "preOrderIndex": 56,
-          "index2": 56,
-          "postOrderIndex": 56,
+          "index": 57,
+          "preOrderIndex": 57,
+          "index2": 59,
+          "postOrderIndex": 59,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -1142,7 +1400,9 @@
           ],
           "optimizationBailout": [
             "Dependency (harmony side effect evaluation) with side effects at 1:0-26",
-            "ModuleConcatenation bailout: Cannot concat with ./node_modules/react/index.js: Module is not an ECMAScript module"
+            "ModuleConcatenation bailout: Cannot concat with ./node_modules/react/index.js: Module is not an ECMAScript module",
+            "ModuleConcatenation bailout: Cannot concat with ./assets/icons/svg/aimoonxall.svg: Module is not an ECMAScript module",
+            "ModuleConcatenation bailout: Cannot concat with ./assets/icons/svg/persona_landing.svg: Module is not an ECMAScript module"
           ],
           "depth": 5
         }
@@ -3049,7 +3309,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "i18next",
-              "loc": "28:15-19",
+              "loc": "27:15-19",
               "moduleId": 994,
               "resolvedModuleId": null
             },
@@ -3091,7 +3351,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "i18next",
-              "loc": "28:15-19",
+              "loc": "27:15-19",
               "moduleId": null,
               "resolvedModuleId": null
             }
@@ -5316,7 +5576,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "3:22-41",
+              "loc": "7:22-41",
               "moduleId": 333,
               "resolvedModuleId": 333
             },
@@ -5330,7 +5590,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "3:42-56",
+              "loc": "7:42-56",
               "moduleId": 333,
               "resolvedModuleId": 333
             },
@@ -5344,7 +5604,147 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "3:77-96",
+              "loc": "7:77-96",
+              "moduleId": 333,
+              "resolvedModuleId": 333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "module": "./src/features/auth/AuthLanding.js",
+              "moduleName": "./src/features/auth/AuthLanding.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "resolvedModule": "./src/features/auth/AuthLanding.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "9:18-37",
+              "moduleId": 333,
+              "resolvedModuleId": 333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "module": "./src/features/auth/AuthLanding.js",
+              "moduleName": "./src/features/auth/AuthLanding.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "resolvedModule": "./src/features/auth/AuthLanding.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "11:18-37",
+              "moduleId": 333,
+              "resolvedModuleId": 333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "module": "./src/features/auth/AuthLanding.js",
+              "moduleName": "./src/features/auth/AuthLanding.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "resolvedModule": "./src/features/auth/AuthLanding.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "16:20-39",
+              "moduleId": 333,
+              "resolvedModuleId": 333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "module": "./src/features/auth/AuthLanding.js",
+              "moduleName": "./src/features/auth/AuthLanding.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "resolvedModule": "./src/features/auth/AuthLanding.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "18:18-37",
+              "moduleId": 333,
+              "resolvedModuleId": 333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "module": "./src/features/auth/AuthLanding.js",
+              "moduleName": "./src/features/auth/AuthLanding.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "resolvedModule": "./src/features/auth/AuthLanding.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "20:158-177",
+              "moduleId": 333,
+              "resolvedModuleId": 333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "module": "./src/features/auth/AuthLanding.js",
+              "moduleName": "./src/features/auth/AuthLanding.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "resolvedModule": "./src/features/auth/AuthLanding.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "22:18-37",
+              "moduleId": 333,
+              "resolvedModuleId": 333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "module": "./src/features/auth/AuthLanding.js",
+              "moduleName": "./src/features/auth/AuthLanding.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "resolvedModule": "./src/features/auth/AuthLanding.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "27:20-39",
+              "moduleId": 333,
+              "resolvedModuleId": 333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "module": "./src/features/auth/AuthLanding.js",
+              "moduleName": "./src/features/auth/AuthLanding.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "resolvedModule": "./src/features/auth/AuthLanding.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "29:26-45",
+              "moduleId": 333,
+              "resolvedModuleId": 333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "module": "./src/features/auth/AuthLanding.js",
+              "moduleName": "./src/features/auth/AuthLanding.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "resolvedModule": "./src/features/auth/AuthLanding.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "31:26-45",
+              "moduleId": 333,
+              "resolvedModuleId": 333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "module": "./src/features/auth/AuthLanding.js",
+              "moduleName": "./src/features/auth/AuthLanding.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "resolvedModule": "./src/features/auth/AuthLanding.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "33:26-45",
               "moduleId": 333,
               "resolvedModuleId": 333
             },
@@ -10199,10 +10599,10 @@
           "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Landing.js",
           "name": "./src/app/containers/app/Landing.js",
           "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Landing.js",
-          "index": 54,
-          "preOrderIndex": 54,
-          "index2": 54,
-          "postOrderIndex": 54,
+          "index": 55,
+          "preOrderIndex": 55,
+          "index2": 55,
+          "postOrderIndex": 55,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -11760,9 +12160,10 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 31173.44,
+      "size": 92436.44,
       "sizes": {
-        "javascript": 22830.44,
+        "javascript": 23517.44,
+        "asset": 60576,
         "runtime": 8343
       },
       "names": [
@@ -11774,9 +12175,10 @@
       ],
       "files": [],
       "auxiliaryFiles": [
+        "3ee00883a9701befc8be.TTF",
         "assets/icons/svg/loading.gif"
       ],
-      "hash": "f216e734c3e57d95afcc",
+      "hash": "585176b2305e6f6f336d",
       "childrenByOrder": {},
       "id": 792,
       "siblings": [
@@ -11795,11 +12197,84 @@
       "modules": [
         {
           "type": "module",
+          "moduleType": "asset/resource",
+          "layer": null,
+          "size": 42,
+          "sizes": {
+            "asset": 60576,
+            "javascript": 42
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "asset/resource|/home/mohammad/Desktop/Projects/aimoonx-dev/assets/fonts/Yekan_Bakh_Fanum_Regular.TTF",
+          "name": "./assets/fonts/Yekan_Bakh_Fanum_Regular.TTF",
+          "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/assets/fonts/Yekan_Bakh_Fanum_Regular.TTF",
+          "index": 53,
+          "preOrderIndex": 53,
+          "index2": 50,
+          "postOrderIndex": 50,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+          "issuerName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+          "issuerPath": [
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/style-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+              "name": "./styles/style.css",
+              "id": null
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+              "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+              "id": 71
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 912,
+          "issuerId": 71,
+          "chunks": [
+            792
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+              "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+              "type": "new URL()",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../assets/fonts/Yekan_Bakh_Fanum_Regular.TTF",
+              "loc": "9:36-108",
+              "moduleId": 71,
+              "resolvedModuleId": 71
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": 3
+        },
+        {
+          "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 16324,
+          "size": 16973,
           "sizes": {
-            "javascript": 16324
+            "javascript": 16973
           },
           "built": true,
           "codeGenerated": true,
@@ -11810,8 +12285,8 @@
           "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
           "index": 45,
           "preOrderIndex": 45,
-          "index2": 50,
-          "postOrderIndex": 50,
+          "index2": 51,
+          "postOrderIndex": 51,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -12044,7 +12519,7 @@
             "default"
           ],
           "optimizationBailout": [
-            "Statement (VariableDeclaration) with side effects in source code at 9:0-100",
+            "Statement (VariableDeclaration) with side effects in source code at 10:0-100",
             "ModuleConcatenation bailout: Module uses module.id"
           ],
           "depth": 2
@@ -12053,9 +12528,9 @@
           "type": "module",
           "moduleType": "javascript/esm",
           "layer": null,
-          "size": 5403,
+          "size": 5399,
           "sizes": {
-            "javascript": 5403
+            "javascript": 5399
           },
           "built": true,
           "codeGenerated": true,
@@ -12066,8 +12541,8 @@
           "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
           "index": 0,
           "preOrderIndex": 0,
-          "index2": 52,
-          "postOrderIndex": 52,
+          "index2": 53,
+          "postOrderIndex": 53,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -12134,8 +12609,8 @@
               "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
               "index": 0,
               "preOrderIndex": 0,
-              "index2": 52,
-              "postOrderIndex": 52,
+              "index2": 53,
+              "postOrderIndex": 53,
               "cacheable": true,
               "optional": false,
               "orphan": false,
@@ -12255,8 +12730,8 @@
               "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
               "index": 38,
               "preOrderIndex": 38,
-              "index2": 51,
-              "postOrderIndex": 51,
+              "index2": 52,
+              "postOrderIndex": 52,
               "cacheable": true,
               "optional": false,
               "orphan": false,
@@ -12476,9 +12951,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 918,
+              "size": 914,
               "sizes": {
-                "javascript": 918
+                "javascript": 914
               },
               "built": true,
               "codeGenerated": false,
@@ -12558,7 +13033,7 @@
                 "default"
               ],
               "optimizationBailout": [
-                "Statement (ExpressionStatement) with side effects in source code at 6:0-27:3"
+                "Statement (ExpressionStatement) with side effects in source code at 6:0-26:3"
               ],
               "depth": 3
             },
@@ -13723,10 +14198,10 @@
           "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/middleware/Middleware.js",
           "name": "./src/app/middleware/Middleware.js",
           "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/middleware/Middleware.js",
-          "index": 53,
-          "preOrderIndex": 53,
-          "index2": 53,
-          "postOrderIndex": 53,
+          "index": 54,
+          "preOrderIndex": 54,
+          "index2": 54,
+          "postOrderIndex": 54,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -13920,7 +14395,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../node_modules/css-loader/dist/runtime/api.js",
-              "loc": "9:30-57",
+              "loc": "10:30-57",
               "moduleId": 71,
               "resolvedModuleId": 71
             },
@@ -14024,20 +14499,6 @@
               "active": true,
               "explanation": "",
               "userRequest": "../node_modules/css-loader/dist/runtime/getUrl.js",
-              "loc": "10:41-72",
-              "moduleId": 71,
-              "resolvedModuleId": 71
-            },
-            {
-              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
-              "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
-              "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
-              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
-              "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "../node_modules/css-loader/dist/runtime/getUrl.js",
               "loc": "11:41-72",
               "moduleId": 71,
               "resolvedModuleId": 71
@@ -14067,6 +14528,34 @@
               "explanation": "",
               "userRequest": "../node_modules/css-loader/dist/runtime/getUrl.js",
               "loc": "13:41-72",
+              "moduleId": 71,
+              "resolvedModuleId": 71
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+              "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../node_modules/css-loader/dist/runtime/getUrl.js",
+              "loc": "14:41-72",
+              "moduleId": 71,
+              "resolvedModuleId": 71
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+              "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../node_modules/css-loader/dist/runtime/getUrl.js",
+              "loc": "15:41-72",
               "moduleId": 71,
               "resolvedModuleId": 71
             },
@@ -14170,7 +14659,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../node_modules/css-loader/dist/runtime/noSourceMaps.js",
-              "loc": "9:58-98",
+              "loc": "10:58-98",
               "moduleId": 71,
               "resolvedModuleId": 71
             },
@@ -16247,9 +16736,9 @@
       "type": "module",
       "moduleType": "javascript/esm",
       "layer": null,
-      "size": 5403,
+      "size": 5399,
       "sizes": {
-        "javascript": 5403
+        "javascript": 5399
       },
       "built": true,
       "codeGenerated": true,
@@ -16260,8 +16749,8 @@
       "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
       "index": 0,
       "preOrderIndex": 0,
-      "index2": 52,
-      "postOrderIndex": 52,
+      "index2": 53,
+      "postOrderIndex": 53,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -16327,8 +16816,8 @@
           "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
           "index": 0,
           "preOrderIndex": 0,
-          "index2": 52,
-          "postOrderIndex": 52,
+          "index2": 53,
+          "postOrderIndex": 53,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -16446,8 +16935,8 @@
           "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
           "index": 38,
           "preOrderIndex": 38,
-          "index2": 51,
-          "postOrderIndex": 51,
+          "index2": 52,
+          "postOrderIndex": 52,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -16664,9 +17153,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 918,
+          "size": 914,
           "sizes": {
-            "javascript": 918
+            "javascript": 914
           },
           "built": true,
           "codeGenerated": false,
@@ -16745,7 +17234,7 @@
             "default"
           ],
           "optimizationBailout": [
-            "Statement (ExpressionStatement) with side effects in source code at 6:0-27:3"
+            "Statement (ExpressionStatement) with side effects in source code at 6:0-26:3"
           ],
           "depth": 3
         },
@@ -17623,7 +18112,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "3:22-41",
+          "loc": "7:22-41",
           "moduleId": 333,
           "resolvedModuleId": 333
         },
@@ -17637,7 +18126,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "3:42-56",
+          "loc": "7:42-56",
           "moduleId": 333,
           "resolvedModuleId": 333
         },
@@ -17651,7 +18140,147 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "3:77-96",
+          "loc": "7:77-96",
+          "moduleId": 333,
+          "resolvedModuleId": 333
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "module": "./src/features/auth/AuthLanding.js",
+          "moduleName": "./src/features/auth/AuthLanding.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "resolvedModule": "./src/features/auth/AuthLanding.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "9:18-37",
+          "moduleId": 333,
+          "resolvedModuleId": 333
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "module": "./src/features/auth/AuthLanding.js",
+          "moduleName": "./src/features/auth/AuthLanding.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "resolvedModule": "./src/features/auth/AuthLanding.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "11:18-37",
+          "moduleId": 333,
+          "resolvedModuleId": 333
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "module": "./src/features/auth/AuthLanding.js",
+          "moduleName": "./src/features/auth/AuthLanding.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "resolvedModule": "./src/features/auth/AuthLanding.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "16:20-39",
+          "moduleId": 333,
+          "resolvedModuleId": 333
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "module": "./src/features/auth/AuthLanding.js",
+          "moduleName": "./src/features/auth/AuthLanding.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "resolvedModule": "./src/features/auth/AuthLanding.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "18:18-37",
+          "moduleId": 333,
+          "resolvedModuleId": 333
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "module": "./src/features/auth/AuthLanding.js",
+          "moduleName": "./src/features/auth/AuthLanding.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "resolvedModule": "./src/features/auth/AuthLanding.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "20:158-177",
+          "moduleId": 333,
+          "resolvedModuleId": 333
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "module": "./src/features/auth/AuthLanding.js",
+          "moduleName": "./src/features/auth/AuthLanding.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "resolvedModule": "./src/features/auth/AuthLanding.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "22:18-37",
+          "moduleId": 333,
+          "resolvedModuleId": 333
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "module": "./src/features/auth/AuthLanding.js",
+          "moduleName": "./src/features/auth/AuthLanding.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "resolvedModule": "./src/features/auth/AuthLanding.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "27:20-39",
+          "moduleId": 333,
+          "resolvedModuleId": 333
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "module": "./src/features/auth/AuthLanding.js",
+          "moduleName": "./src/features/auth/AuthLanding.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "resolvedModule": "./src/features/auth/AuthLanding.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "29:26-45",
+          "moduleId": 333,
+          "resolvedModuleId": 333
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "module": "./src/features/auth/AuthLanding.js",
+          "moduleName": "./src/features/auth/AuthLanding.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "resolvedModule": "./src/features/auth/AuthLanding.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "31:26-45",
+          "moduleId": 333,
+          "resolvedModuleId": 333
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "module": "./src/features/auth/AuthLanding.js",
+          "moduleName": "./src/features/auth/AuthLanding.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "resolvedModule": "./src/features/auth/AuthLanding.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "33:26-45",
           "moduleId": 333,
           "resolvedModuleId": 333
         },
@@ -21638,8 +22267,8 @@
       "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
       "index": 38,
       "preOrderIndex": 38,
-      "index2": 51,
-      "postOrderIndex": 51,
+      "index2": 52,
+      "postOrderIndex": 52,
       "cacheable": true,
       "optional": false,
       "orphan": true,
@@ -25835,9 +26464,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 16324,
+      "size": 16973,
       "sizes": {
-        "javascript": 16324
+        "javascript": 16973
       },
       "built": true,
       "codeGenerated": true,
@@ -25848,8 +26477,8 @@
       "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
       "index": 45,
       "preOrderIndex": 45,
-      "index2": 50,
-      "postOrderIndex": 50,
+      "index2": 51,
+      "postOrderIndex": 51,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -26081,7 +26710,7 @@
         "default"
       ],
       "optimizationBailout": [
-        "Statement (VariableDeclaration) with side effects in source code at 9:0-100",
+        "Statement (VariableDeclaration) with side effects in source code at 10:0-100",
         "ModuleConcatenation bailout: Module uses module.id"
       ],
       "depth": 2
@@ -26101,10 +26730,10 @@
       "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/middleware/Middleware.js",
       "name": "./src/app/middleware/Middleware.js",
       "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/middleware/Middleware.js",
-      "index": 53,
-      "preOrderIndex": 53,
-      "index2": 53,
-      "postOrderIndex": 53,
+      "index": 54,
+      "preOrderIndex": 54,
+      "index2": 54,
+      "postOrderIndex": 54,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -26262,9 +26891,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 918,
+      "size": 914,
       "sizes": {
-        "javascript": 918
+        "javascript": 914
       },
       "built": true,
       "codeGenerated": false,
@@ -26343,7 +26972,7 @@
         "default"
       ],
       "optimizationBailout": [
-        "Statement (ExpressionStatement) with side effects in source code at 6:0-27:3"
+        "Statement (ExpressionStatement) with side effects in source code at 6:0-26:3"
       ],
       "depth": 3
     },
@@ -26511,7 +27140,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../node_modules/css-loader/dist/runtime/noSourceMaps.js",
-          "loc": "9:58-98",
+          "loc": "10:58-98",
           "moduleId": 71,
           "resolvedModuleId": 71
         },
@@ -26614,7 +27243,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../node_modules/css-loader/dist/runtime/api.js",
-          "loc": "9:30-57",
+          "loc": "10:30-57",
           "moduleId": 71,
           "resolvedModuleId": 71
         },
@@ -26717,20 +27346,6 @@
           "active": true,
           "explanation": "",
           "userRequest": "../node_modules/css-loader/dist/runtime/getUrl.js",
-          "loc": "10:41-72",
-          "moduleId": 71,
-          "resolvedModuleId": 71
-        },
-        {
-          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
-          "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
-          "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
-          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
-          "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "../node_modules/css-loader/dist/runtime/getUrl.js",
           "loc": "11:41-72",
           "moduleId": 71,
           "resolvedModuleId": 71
@@ -26760,6 +27375,34 @@
           "explanation": "",
           "userRequest": "../node_modules/css-loader/dist/runtime/getUrl.js",
           "loc": "13:41-72",
+          "moduleId": 71,
+          "resolvedModuleId": 71
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+          "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+          "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+          "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../node_modules/css-loader/dist/runtime/getUrl.js",
+          "loc": "14:41-72",
+          "moduleId": 71,
+          "resolvedModuleId": 71
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+          "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+          "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+          "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../node_modules/css-loader/dist/runtime/getUrl.js",
+          "loc": "15:41-72",
           "moduleId": 71,
           "resolvedModuleId": 71
         },
@@ -27073,6 +27716,78 @@
     },
     {
       "type": "module",
+      "moduleType": "asset/resource",
+      "layer": null,
+      "size": 42,
+      "sizes": {
+        "asset": 60576,
+        "javascript": 42
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "asset/resource|/home/mohammad/Desktop/Projects/aimoonx-dev/assets/fonts/Yekan_Bakh_Fanum_Regular.TTF",
+      "name": "./assets/fonts/Yekan_Bakh_Fanum_Regular.TTF",
+      "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/assets/fonts/Yekan_Bakh_Fanum_Regular.TTF",
+      "index": 53,
+      "preOrderIndex": 53,
+      "index2": 50,
+      "postOrderIndex": 50,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+      "issuerName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+      "issuerPath": [
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/style-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+          "name": "./styles/style.css",
+          "id": null
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+          "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+          "id": 71
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 912,
+      "issuerId": 71,
+      "chunks": [
+        792
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+          "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+          "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/css-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/postcss-loader/dist/cjs.js!/home/mohammad/Desktop/Projects/aimoonx-dev/styles/style.css",
+          "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/style.css",
+          "type": "new URL()",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../assets/fonts/Yekan_Bakh_Fanum_Regular.TTF",
+          "loc": "9:36-108",
+          "moduleId": 71,
+          "resolvedModuleId": 71
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": 3
+    },
+    {
+      "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
       "size": 292,
@@ -27086,10 +27801,10 @@
       "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Landing.js",
       "name": "./src/app/containers/app/Landing.js",
       "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Landing.js",
-      "index": 54,
-      "preOrderIndex": 54,
-      "index2": 54,
-      "postOrderIndex": 54,
+      "index": 55,
+      "preOrderIndex": 55,
+      "index2": 55,
+      "postOrderIndex": 55,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -27340,7 +28055,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "i18next",
-          "loc": "28:15-19",
+          "loc": "27:15-19",
           "moduleId": 994,
           "resolvedModuleId": null
         },
@@ -27382,7 +28097,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "i18next",
-          "loc": "28:15-19",
+          "loc": "27:15-19",
           "moduleId": null,
           "resolvedModuleId": null
         }
@@ -28360,9 +29075,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 542,
+      "size": 550,
       "sizes": {
-        "javascript": 542
+        "javascript": 550
       },
       "built": true,
       "codeGenerated": true,
@@ -28371,10 +29086,10 @@
       "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
       "name": "./src/app/containers/app/Content.js",
       "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
-      "index": 55,
-      "preOrderIndex": 55,
-      "index2": 55,
-      "postOrderIndex": 55,
+      "index": 56,
+      "preOrderIndex": 56,
+      "index2": 56,
+      "postOrderIndex": 56,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -30708,9 +31423,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 248,
+      "size": 1517,
       "sizes": {
-        "javascript": 248
+        "javascript": 1517
       },
       "built": true,
       "codeGenerated": true,
@@ -30719,10 +31434,10 @@
       "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
       "name": "./src/features/auth/AuthLanding.js",
       "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
-      "index": 56,
-      "preOrderIndex": 56,
-      "index2": 56,
-      "postOrderIndex": 56,
+      "index": 57,
+      "preOrderIndex": 57,
+      "index2": 59,
+      "postOrderIndex": 59,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -30786,7 +31501,9 @@
       ],
       "optimizationBailout": [
         "Dependency (harmony side effect evaluation) with side effects at 1:0-26",
-        "ModuleConcatenation bailout: Cannot concat with ./node_modules/react/index.js: Module is not an ECMAScript module"
+        "ModuleConcatenation bailout: Cannot concat with ./node_modules/react/index.js: Module is not an ECMAScript module",
+        "ModuleConcatenation bailout: Cannot concat with ./assets/icons/svg/aimoonxall.svg: Module is not an ECMAScript module",
+        "ModuleConcatenation bailout: Cannot concat with ./assets/icons/svg/persona_landing.svg: Module is not an ECMAScript module"
       ],
       "depth": 5
     },
@@ -31575,6 +32292,242 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
+      "size": 8216,
+      "sizes": {
+        "javascript": 8216
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/aimoonxall.svg",
+      "name": "./assets/icons/svg/aimoonxall.svg",
+      "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/aimoonxall.svg",
+      "index": 58,
+      "preOrderIndex": 58,
+      "index2": 57,
+      "postOrderIndex": 57,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+      "issuerName": "./src/features/auth/AuthLanding.js",
+      "issuerPath": [
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/App.js",
+          "name": "./src/app/containers/app/App.js",
+          "id": null
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/middleware/Middleware.js",
+          "name": "./src/app/middleware/Middleware.js",
+          "id": 868
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Landing.js",
+          "name": "./src/app/containers/app/Landing.js",
+          "id": 741
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "name": "./src/app/containers/app/Content.js",
+          "id": 75
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "name": "./src/features/auth/AuthLanding.js",
+          "id": 333
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 750,
+      "issuerId": 333,
+      "chunks": [
+        333
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "module": "./src/features/auth/AuthLanding.js",
+          "moduleName": "./src/features/auth/AuthLanding.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "resolvedModule": "./src/features/auth/AuthLanding.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../../assets/icons/svg/aimoonxall.svg",
+          "loc": "4:0-66",
+          "moduleId": 333,
+          "resolvedModuleId": 333
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "module": "./src/features/auth/AuthLanding.js",
+          "moduleName": "./src/features/auth/AuthLanding.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "resolvedModule": "./src/features/auth/AuthLanding.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../../assets/icons/svg/aimoonxall.svg",
+          "loc": "13:9-19",
+          "moduleId": 333,
+          "resolvedModuleId": 333
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/aimoonxall.svg",
+          "module": "./assets/icons/svg/aimoonxall.svg",
+          "moduleName": "./assets/icons/svg/aimoonxall.svg",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/aimoonxall.svg",
+          "resolvedModule": "./assets/icons/svg/aimoonxall.svg",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "1:0-14",
+          "moduleId": 750,
+          "resolvedModuleId": 750
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 1:0-14",
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-8216",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 6
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 5755,
+      "sizes": {
+        "javascript": 5755
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/persona_landing.svg",
+      "name": "./assets/icons/svg/persona_landing.svg",
+      "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/persona_landing.svg",
+      "index": 59,
+      "preOrderIndex": 59,
+      "index2": 58,
+      "postOrderIndex": 58,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+      "issuerName": "./src/features/auth/AuthLanding.js",
+      "issuerPath": [
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/App.js",
+          "name": "./src/app/containers/app/App.js",
+          "id": null
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/middleware/Middleware.js",
+          "name": "./src/app/middleware/Middleware.js",
+          "id": 868
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Landing.js",
+          "name": "./src/app/containers/app/Landing.js",
+          "id": 741
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "name": "./src/app/containers/app/Content.js",
+          "id": 75
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "name": "./src/features/auth/AuthLanding.js",
+          "id": 333
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 942,
+      "issuerId": 333,
+      "chunks": [
+        333
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "module": "./src/features/auth/AuthLanding.js",
+          "moduleName": "./src/features/auth/AuthLanding.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "resolvedModule": "./src/features/auth/AuthLanding.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../../assets/icons/svg/persona_landing.svg",
+          "loc": "5:0-76",
+          "moduleId": 333,
+          "resolvedModuleId": 333
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "module": "./src/features/auth/AuthLanding.js",
+          "moduleName": "./src/features/auth/AuthLanding.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "resolvedModule": "./src/features/auth/AuthLanding.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../../assets/icons/svg/persona_landing.svg",
+          "loc": "24:9-24",
+          "moduleId": 333,
+          "resolvedModuleId": 333
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/persona_landing.svg",
+          "module": "./assets/icons/svg/persona_landing.svg",
+          "moduleName": "./assets/icons/svg/persona_landing.svg",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/persona_landing.svg",
+          "resolvedModule": "./assets/icons/svg/persona_landing.svg",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "1:0-14",
+          "moduleId": 942,
+          "resolvedModuleId": 942
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 1:0-14",
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-5755",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 6
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
       "size": 338,
       "sizes": {
         "javascript": 338
@@ -32178,12 +33131,16 @@
       "assetsSize": 23298,
       "auxiliaryAssets": [
         {
+          "name": "3ee00883a9701befc8be.TTF",
+          "size": 60576
+        },
+        {
           "name": "assets/icons/svg/loading.gif",
           "size": 72919
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 72919,
+      "auxiliaryAssetsSize": 133495,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
@@ -32224,12 +33181,16 @@
       "assetsSize": 23298,
       "auxiliaryAssets": [
         {
+          "name": "3ee00883a9701befc8be.TTF",
+          "size": 60576
+        },
+        {
           "name": "assets/icons/svg/loading.gif",
           "size": 72919
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 72919,
+      "auxiliaryAssetsSize": 133495,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
@@ -32242,10 +33203,10 @@
   "children": [
     {
       "name": "HtmlWebpackCompiler",
-      "hash": "88ba344900e16bb7e2b2",
+      "hash": "c331490888e59ed86975",
       "version": "5.96.1",
       "time": 310,
-      "builtAt": 1731408351193,
+      "builtAt": 1731417947795,
       "publicPath": "",
       "outputPath": "/home/mohammad/Desktop/Projects/aimoonx-dev/dist",
       "assetsByChunkName": {},
@@ -32282,9 +33243,9 @@
           "initial": true,
           "entry": true,
           "recorded": false,
-          "size": 3100,
+          "size": 3089,
           "sizes": {
-            "javascript": 576,
+            "javascript": 565,
             "asset": 964,
             "runtime": 1560
           },
@@ -32299,7 +33260,7 @@
           "auxiliaryFiles": [
             "85844e0ca7f47950c7a0.json"
           ],
-          "hash": "151522270b4c4691676a",
+          "hash": "0859f07c8e545937c173",
           "childrenByOrder": {},
           "id": 387,
           "siblings": [],
@@ -32373,9 +33334,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 457,
+              "size": 446,
               "sizes": {
-                "javascript": 457
+                "javascript": 446
               },
               "built": true,
               "codeGenerated": true,
@@ -32797,9 +33758,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 457,
+          "size": 446,
           "sizes": {
-            "javascript": 457
+            "javascript": 446
           },
           "built": true,
           "codeGenerated": true,

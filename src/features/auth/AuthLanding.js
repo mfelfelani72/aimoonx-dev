@@ -7,7 +7,7 @@ import persona_landing from "../../../assets/icons/svg/persona_landing.svg";
 const AuthLanding = () => {
   return (
     <>
-      <div className="flex flex-col justify-end bg-rose-200 !h-[clac(100vh-)]">
+      <div className="flex flex-col justify-end bg-rose-200 !h-full">
         <div className="flex flex-row">
           <img
             className="w-[4.56rem] h-[4.56rem]"
