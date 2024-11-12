@@ -1,0 +1,16 @@
+<svg width="68" height="68" viewBox="0 0 68 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="34" cy="34" r="28" fill="#F0ECFC"/>
+<g filter="url(#filter0_f_2213_2021)">
+<circle cx="34" cy="34" r="19" fill="white"/>
+</g>
+<path d="M34.0366 30.4624V37.6108" stroke="#B4A2F1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M37.6143 34.0366H30.4585" stroke="#B4A2F1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M24.2998 34.0366C24.2998 26.7345 26.7345 24.2998 34.0366 24.2998C41.3388 24.2998 43.7735 26.7345 43.7735 34.0366C43.7735 41.3388 41.3388 43.7735 34.0366 43.7735C26.7345 43.7735 24.2998 41.3388 24.2998 34.0366Z" stroke="#B4A2F1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<filter id="filter0_f_2213_2021" x="0" y="0" width="68" height="68" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="7.5" result="effect1_foregroundBlur_2213_2021"/>
+</filter>
+</defs>
+</svg>

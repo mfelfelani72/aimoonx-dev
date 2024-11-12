@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dev-banner {
+  width: 100vw;
+  --tw-bg-opacity: 1;
+  background-color: rgb(190 18 60 / var(--tw-bg-opacity));
+  text-align: center;
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+  position: fixed;
+  top: 0;
+  z-index: 9999;
+}
+
+.mt {
+  margin-top: 1.5rem;
+}
+
+@layer base {
+    
+  @font-face {
+      font-family: yekanBakh;
+      font-weight: normal;
+      font-style: normal;
+      src: url('../assets/fonts/Yekan_Bakh_Fanum_Regular.TTF');
+      font-display: swap;
+  }
+}
