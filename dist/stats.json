@@ -1,8 +1,8 @@
 {
-  "hash": "e8db199aff05aad88f05",
+  "hash": "4dfd500d72ee8f4cc0dd",
   "version": "5.96.1",
-  "time": 5609,
-  "builtAt": 1731501352153,
+  "time": 7715,
+  "builtAt": 1731501798969,
   "publicPath": "/",
   "outputPath": "/home/mohammad/Desktop/Projects/aimoonx-dev/dist",
   "assetsByChunkName": {
@@ -625,15 +625,15 @@
     },
     {
       "type": "asset",
-      "name": "main-c9c31c89.e87e47eb98f2798cfef0.js.gz",
-      "size": 6357,
+      "name": "main-c9c31c89.d89214d29eebb3592473.js.gz",
+      "size": 6351,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "compressed": true,
         "immutable": true,
-        "size": 6357
+        "size": 6351
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -646,17 +646,17 @@
     },
     {
       "type": "asset",
-      "name": "614.20685fda4eb485307112.js",
-      "size": 5255,
-      "emitted": false,
+      "name": "614.f56fbf65ac193229f7d9.js",
+      "size": 5286,
+      "emitted": true,
       "comparedForEmit": false,
-      "cached": true,
+      "cached": false,
       "info": {
         "immutable": true,
-        "contenthash": "20685fda4eb485307112",
+        "contenthash": "f56fbf65ac193229f7d9",
         "javascriptModule": false,
         "minimized": true,
-        "size": 5255
+        "size": 5286
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -766,9 +766,9 @@
       "type": "asset",
       "name": "737.7a2dc5424be5d4353638.js",
       "size": 3953,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "immutable": true,
         "contenthash": "7a2dc5424be5d4353638",
@@ -6353,9 +6353,9 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "size": 6467,
+      "size": 6498,
       "sizes": {
-        "javascript": 6467
+        "javascript": 6498
       },
       "names": [],
       "idHints": [],
@@ -6363,10 +6363,10 @@
         "main"
       ],
       "files": [
-        "614.20685fda4eb485307112.js"
+        "614.f56fbf65ac193229f7d9.js"
       ],
       "auxiliaryFiles": [],
-      "hash": "cee59f968b029767bcb0",
+      "hash": "cf6fdc106bc23ec44c12",
       "childrenByOrder": {},
       "id": 614,
       "siblings": [],
@@ -6793,9 +6793,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 4463,
+          "size": 4494,
           "sizes": {
-            "javascript": 4463
+            "javascript": 4494
           },
           "built": true,
           "codeGenerated": true,
@@ -11165,7 +11165,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "90:24-43",
+              "loc": "90:25-44",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -18081,9 +18081,9 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 29612,
+      "size": 29579,
       "sizes": {
-        "javascript": 21182,
+        "javascript": 21149,
         "runtime": 8430
       },
       "names": [
@@ -18095,7 +18095,7 @@
       ],
       "files": [],
       "auxiliaryFiles": [],
-      "hash": "90e9f2b635ee058ff880",
+      "hash": "380925edec01a43e0258",
       "childrenByOrder": {},
       "id": 838,
       "siblings": [
@@ -18117,9 +18117,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 21182,
+          "size": 21149,
           "sizes": {
-            "javascript": 21182
+            "javascript": 21149
           },
           "built": true,
           "codeGenerated": true,
@@ -23751,7 +23751,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "90:24-43",
+          "loc": "90:25-44",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -32126,9 +32126,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 21182,
+      "size": 21149,
       "sizes": {
-        "javascript": 21182
+        "javascript": 21149
       },
       "built": true,
       "codeGenerated": true,
@@ -37392,9 +37392,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 4463,
+      "size": 4494,
       "sizes": {
-        "javascript": 4463
+        "javascript": 4494
       },
       "built": true,
       "codeGenerated": true,
@@ -40520,8 +40520,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "079ca65e371938d336b6",
       "version": "5.96.1",
-      "time": 290,
-      "builtAt": 1731501346862,
+      "time": 288,
+      "builtAt": 1731501791572,
       "publicPath": "",
       "outputPath": "/home/mohammad/Desktop/Projects/aimoonx-dev/dist",
       "assetsByChunkName": {},

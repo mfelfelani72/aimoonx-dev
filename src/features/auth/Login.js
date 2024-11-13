@@ -74,11 +74,9 @@ const Login = () => {
         </div>
       </div>
       <div className="flex flex-col justify-end pb-4">
-        {/* <div className="flex"> */}
-          <div className="w-full h-14 px-4 py-2 bg-[#e57c43] rounded-2xl justify-center items-center gap-2 inline-flex">
-            <div className="text-white">{t("sign_in")}</div>
-          </div>
-        {/* </div> */}
+        <div className="w-full h-14 px-4 py-2 bg-[#e57c43] rounded-2xl justify-center items-center gap-2 inline-flex">
+          <div className="text-white">{t("sign_in")}</div>
+        </div>
       </div>
     </>
   );

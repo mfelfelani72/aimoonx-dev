@@ -10,7 +10,7 @@ const SignUp = () => {
   const { t } = useTranslation();
   return (
     <>
-      <div className="flex flex-col justify-end h-full pb-4">
+      <div className="flex flex-col justify-start mt-2 h-[calc(100vh-6rem)]">
         <div className="flex text-[#1f1e2e] text-xl font-bold">
           {t("sign_up")}
         </div>
@@ -105,11 +105,10 @@ const SignUp = () => {
             </div>
           </div>
         </div>
-
-        <div className="flex mt-[18rem]">
-          <div className="w-full h-14 px-4 py-2 bg-[#e57c43] rounded-2xl justify-center items-center gap-2 inline-flex">
-            <div className="text-white">{t("sign_up")}</div>
-          </div>
+      </div>
+      <div className="flex flex-col justify-end pb-4">
+        <div className="w-full h-14 px-4 py-2 bg-[#e57c43] rounded-2xl justify-center items-center gap-2 inline-flex">
+          <div className="text-white">{t("sign_up")}</div>
         </div>
       </div>
     </>
