@@ -7,6 +7,11 @@ const fa = {
   register_telegram: "ثبت‌نام با تلگرام",
   register_google: "ثبت‌نام با گوگل",
 
+  input_info_sign_in: "لطفا شماره موبایل یا نشانی اینترنتی خود را وارد نمایید",
+  input_pass: "لطفا رمز عبور خود را وارد نمایید",
+  password: "رمز عبور",
+  error_user_already_exist: "این نشانی اینترنتی قبلا ثبت شده است",
+
 
   // settings
 
