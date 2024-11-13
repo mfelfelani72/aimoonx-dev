@@ -10,6 +10,7 @@ const Login = () => {
   return (
     <>
       <div className="flex flex-col justify-end h-full pb-4">
+        
         <div className="flex text-[#1f1e2e] text-xl font-bold">{t("sign_in")}</div>
 
         <div className="flex text-[#797882] mt-3">
@@ -20,7 +21,7 @@ const Login = () => {
             <div className="justify-start items-center gap-2 flex">
               <div className="py-2.5 justify-center items-center gap-2.5 flex">
                 <div className="text-[#727272] text-sm font-normal leading-[11.10px]">
-                  mahdie.ehsan@gmail.com
+                  aimoonx@gmail.com
                 </div>
               </div>
             </div>

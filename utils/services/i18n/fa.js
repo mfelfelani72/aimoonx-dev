@@ -12,6 +12,10 @@ const fa = {
   password: "رمز عبور",
   error_user_already_exist: "این نشانی اینترنتی قبلا ثبت شده است",
 
+  choose_email_mobile: "لطفا شماره موبایل یا نشانی اینترنتی خود را وارد نمایید",
+  email : "نشانی اینترنتی",
+  error_invalid_email : "لطفا نشانی اینترنتی معتبر وارد کنید",
+
 
   // settings
 

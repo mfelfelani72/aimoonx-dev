@@ -13,6 +13,10 @@ const en = {
   password: "Password",
   error_user_already_exist: "This User already exist",
 
+  choose_email_mobile : "Please choose mobile or email",
+  email : "Email",
+  error_invalid_email : "Please enter valid a Email",
+
 
   // settings
   persion: "Persion",
