@@ -9,9 +9,10 @@ const Login = () => {
   const { t } = useTranslation();
   return (
     <>
-      <div className="flex flex-col justify-end h-full pb-4">
-        
-        <div className="flex text-[#1f1e2e] text-xl font-bold">{t("sign_in")}</div>
+      <div className="flex flex-col justify-start mt-2 h-[calc(100vh-6rem)]">
+        <div className="flex text-[#1f1e2e] text-xl font-bold">
+          {t("sign_in")}
+        </div>
 
         <div className="flex text-[#797882] mt-3">
           {t("input_info_sign_in")}
@@ -36,9 +37,7 @@ const Login = () => {
             </div>
           </div>
         </div>
-        <div className="flex text-[#797882] mt-8">
-          {t("input_pass")}
-        </div>
+        <div className="flex text-[#797882] mt-8">{t("input_pass")}</div>
 
         <div className="flex flex-col">
           <div className="opacity-60 text-[#0c0c0c] text-xs mt-3 mb-0.5 mx-6">
@@ -49,7 +48,7 @@ const Login = () => {
             <div className="flex justify-start items-center gap-2">
               <div className="flex">
                 <img
-                  alt="sign-up"
+                  alt="lock"
                   src={lock}
                   loading="lazy"
                   className="w-full h-full"
@@ -59,7 +58,7 @@ const Login = () => {
             </div>
             <div className="flex">
               <img
-                alt="sign-up"
+                alt="closeSquare"
                 src={closeSquare}
                 loading="lazy"
                 className="w-full h-full"
@@ -73,11 +72,13 @@ const Login = () => {
             </div>
           </div>
         </div>
-        <div className="flex mt-[18rem]">
+      </div>
+      <div className="flex flex-col justify-end pb-4">
+        {/* <div className="flex"> */}
           <div className="w-full h-14 px-4 py-2 bg-[#e57c43] rounded-2xl justify-center items-center gap-2 inline-flex">
             <div className="text-white">{t("sign_in")}</div>
           </div>
-        </div>
+        {/* </div> */}
       </div>
     </>
   );

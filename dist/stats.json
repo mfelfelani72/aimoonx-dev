@@ -1,13 +1,13 @@
 {
-  "hash": "3a497bccb0ab05595ef3",
+  "hash": "e8db199aff05aad88f05",
   "version": "5.96.1",
-  "time": 5608,
-  "builtAt": 1731500479475,
+  "time": 5609,
+  "builtAt": 1731501352153,
   "publicPath": "/",
   "outputPath": "/home/mohammad/Desktop/Projects/aimoonx-dev/dist",
   "assetsByChunkName": {
     "main-bde52cb3": [
-      "main-bde52cb3.a4fd2d23357904377b98.js"
+      "main-bde52cb3.9865e80d8b423434e1ee.js"
     ]
   },
   "assets": [
@@ -625,15 +625,15 @@
     },
     {
       "type": "asset",
-      "name": "main-c9c31c89.17f9a97ad4589179c4f7.js.gz",
-      "size": 6253,
+      "name": "main-c9c31c89.e87e47eb98f2798cfef0.js.gz",
+      "size": 6357,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "compressed": true,
         "immutable": true,
-        "size": 6253
+        "size": 6357
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -691,14 +691,14 @@
     },
     {
       "type": "asset",
-      "name": "main-bde52cb3.a4fd2d23357904377b98.js",
+      "name": "main-bde52cb3.9865e80d8b423434e1ee.js",
       "size": 4975,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "a4fd2d23357904377b98",
+        "contenthash": "9865e80d8b423434e1ee",
         "javascriptModule": false,
         "minimized": true,
         "size": 4975
@@ -739,17 +739,17 @@
     },
     {
       "type": "asset",
-      "name": "512.664c0ff6b454ce1e4443.js",
-      "size": 4379,
-      "emitted": true,
+      "name": "512.cef98e556054dfa872cc.js",
+      "size": 4394,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "664c0ff6b454ce1e4443",
+        "contenthash": "cef98e556054dfa872cc",
         "javascriptModule": false,
         "minimized": true,
-        "size": 4379
+        "size": 4394
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -764,17 +764,17 @@
     },
     {
       "type": "asset",
-      "name": "737.bc162f764e5878d590a3.js",
-      "size": 3921,
-      "emitted": false,
+      "name": "737.7a2dc5424be5d4353638.js",
+      "size": 3953,
+      "emitted": true,
       "comparedForEmit": false,
-      "cached": true,
+      "cached": false,
       "info": {
         "immutable": true,
-        "contenthash": "bc162f764e5878d590a3",
+        "contenthash": "7a2dc5424be5d4353638",
         "javascriptModule": false,
         "minimized": true,
-        "size": 3921
+        "size": 3953
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -4220,9 +4220,9 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "size": 5119,
+      "size": 5134,
       "sizes": {
-        "javascript": 5119
+        "javascript": 5134
       },
       "names": [],
       "idHints": [],
@@ -4230,10 +4230,10 @@
         "main"
       ],
       "files": [
-        "512.664c0ff6b454ce1e4443.js"
+        "512.cef98e556054dfa872cc.js"
       ],
       "auxiliaryFiles": [],
-      "hash": "26569def087ed764e039",
+      "hash": "2a5e892cbd28c952f6bd",
       "childrenByOrder": {},
       "id": 512,
       "siblings": [],
@@ -4484,9 +4484,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 2619,
+          "size": 2634,
           "sizes": {
-            "javascript": 2619
+            "javascript": 2634
           },
           "built": true,
           "codeGenerated": true,
@@ -8250,8 +8250,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/useTranslation.js",
-          "issuerName": "./node_modules/react-i18next/dist/es/useTranslation.js",
+          "issuer": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/TransWithoutContext.js",
+          "issuerName": "./node_modules/react-i18next/dist/es/TransWithoutContext.js",
           "issuerPath": [
             {
               "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
@@ -8279,16 +8279,16 @@
               "id": null
             },
             {
-              "identifier": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/useTranslation.js",
-              "name": "./node_modules/react-i18next/dist/es/useTranslation.js",
-              "id": 8437
+              "identifier": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/TransWithoutContext.js",
+              "name": "./node_modules/react-i18next/dist/es/TransWithoutContext.js",
+              "id": null
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 9454,
-          "issuerId": 8437,
+          "issuerId": null,
           "chunks": [
             679
           ],
@@ -10675,7 +10675,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "63:52-71",
+              "loc": "63:53-72",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -16009,9 +16009,9 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "size": 4818,
+      "size": 4850,
       "sizes": {
-        "javascript": 4818
+        "javascript": 4850
       },
       "names": [],
       "idHints": [],
@@ -16019,10 +16019,10 @@
         "main"
       ],
       "files": [
-        "737.bc162f764e5878d590a3.js"
+        "737.7a2dc5424be5d4353638.js"
       ],
       "auxiliaryFiles": [],
-      "hash": "8d23fb87e1064faee59f",
+      "hash": "d2dff97a252a1d3a5a06",
       "childrenByOrder": {},
       "id": 737,
       "siblings": [],
@@ -16330,9 +16330,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 3263,
+          "size": 3295,
           "sizes": {
-            "javascript": 3263
+            "javascript": 3295
           },
           "built": true,
           "codeGenerated": true,
@@ -18081,9 +18081,9 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 29300,
+      "size": 29612,
       "sizes": {
-        "javascript": 20870,
+        "javascript": 21182,
         "runtime": 8430
       },
       "names": [
@@ -18095,7 +18095,7 @@
       ],
       "files": [],
       "auxiliaryFiles": [],
-      "hash": "2c8ad3f4ab232d6e93a4",
+      "hash": "90e9f2b635ee058ff880",
       "childrenByOrder": {},
       "id": 838,
       "siblings": [
@@ -18117,9 +18117,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 20870,
+          "size": 21182,
           "sizes": {
-            "javascript": 20870
+            "javascript": 21182
           },
           "built": true,
           "codeGenerated": true,
@@ -19331,13 +19331,13 @@
         "main"
       ],
       "files": [
-        "main-bde52cb3.a4fd2d23357904377b98.js"
+        "main-bde52cb3.9865e80d8b423434e1ee.js"
       ],
       "auxiliaryFiles": [
         "3ee00883a9701befc8be.TTF",
         "assets/icons/svg/loading.gif"
       ],
-      "hash": "d8c36a65161f0713ae02",
+      "hash": "ad1d9f75097c6385c19d",
       "childrenByOrder": {},
       "id": 997,
       "siblings": [
@@ -23261,7 +23261,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "63:52-71",
+          "loc": "63:53-72",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -32126,9 +32126,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 20870,
+      "size": 21182,
       "sizes": {
-        "javascript": 20870
+        "javascript": 21182
       },
       "built": true,
       "codeGenerated": true,
@@ -37303,9 +37303,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 3263,
+      "size": 3295,
       "sizes": {
-        "javascript": 3263
+        "javascript": 3295
       },
       "built": true,
       "codeGenerated": true,
@@ -37482,9 +37482,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 2619,
+      "size": 2634,
       "sizes": {
-        "javascript": 2619
+        "javascript": 2634
       },
       "built": true,
       "codeGenerated": true,
@@ -37692,8 +37692,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/useTranslation.js",
-      "issuerName": "./node_modules/react-i18next/dist/es/useTranslation.js",
+      "issuer": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/TransWithoutContext.js",
+      "issuerName": "./node_modules/react-i18next/dist/es/TransWithoutContext.js",
       "issuerPath": [
         {
           "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
@@ -37721,16 +37721,16 @@
           "id": null
         },
         {
-          "identifier": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/useTranslation.js",
-          "name": "./node_modules/react-i18next/dist/es/useTranslation.js",
-          "id": 8437
+          "identifier": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/TransWithoutContext.js",
+          "name": "./node_modules/react-i18next/dist/es/TransWithoutContext.js",
+          "id": null
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 9454,
-      "issuerId": 8437,
+      "issuerId": null,
       "chunks": [
         679
       ],
@@ -40433,7 +40433,7 @@
           "size": 9000
         },
         {
-          "name": "main-bde52cb3.a4fd2d23357904377b98.js",
+          "name": "main-bde52cb3.9865e80d8b423434e1ee.js",
           "size": 4975
         }
       ],
@@ -40488,7 +40488,7 @@
           "size": 9000
         },
         {
-          "name": "main-bde52cb3.a4fd2d23357904377b98.js",
+          "name": "main-bde52cb3.9865e80d8b423434e1ee.js",
           "size": 4975
         }
       ],
@@ -40518,10 +40518,10 @@
   "children": [
     {
       "name": "HtmlWebpackCompiler",
-      "hash": "6d625dc07737facbb636",
+      "hash": "079ca65e371938d336b6",
       "version": "5.96.1",
-      "time": 275,
-      "builtAt": 1731500474167,
+      "time": 290,
+      "builtAt": 1731501346862,
       "publicPath": "",
       "outputPath": "/home/mohammad/Desktop/Projects/aimoonx-dev/dist",
       "assetsByChunkName": {},
@@ -40575,7 +40575,7 @@
           "auxiliaryFiles": [
             "85844e0ca7f47950c7a0.json"
           ],
-          "hash": "fd08f58f695f045fe1e6",
+          "hash": "bae113a6aef0c9af3948",
           "childrenByOrder": {},
           "id": 387,
           "siblings": [],
