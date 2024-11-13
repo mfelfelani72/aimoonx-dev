@@ -14,8 +14,8 @@ const AuthLanding = () => {
   const { t } = useTranslation();
 
   return (
-    <>
-      <div className="flex flex-col justify-end h-full pb-4">
+    <div className="md:justify-self-center md:w-[30rem] bg-rose">
+      <div className="flex flex-col justify-end h-[calc(100vh-2rem)]">
         <div className="flex flex-row">
           <img
             className="w-[4.56rem] h-[4.56rem]"
@@ -36,14 +36,13 @@ const AuthLanding = () => {
           ></img>
         </div>
         <div className="flex gap-2">
-         
           <Link
             className="basis-1/2 h-14 flex flex-row justify-center items-center bg-white/0 rounded-2xl !bg-[#e57c43]"
             to="/login"
           >
             <div className="flex flex-row gap-2 ">
               <div className="">
-              <img
+                <img
                   alt="login"
                   src={login}
                   loading="lazy"
@@ -102,13 +101,13 @@ const AuthLanding = () => {
                 className="w-full h-full"
               ></img>
             </div>
-            <div className="text-[#1f1e2e] text-base font-bold font-['Yekan Bakh']">
+            <div className="text-[#1f1e2e] text-base font-bold">
               {t("register_google")}
             </div>
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 

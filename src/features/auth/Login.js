@@ -8,7 +8,7 @@ import lock from "../../../assets/icons/svg/Lock.svg";
 const Login = () => {
   const { t } = useTranslation();
   return (
-    <>
+    <div className="justify-self-center md:w-[30rem]">
       <div className="flex flex-col justify-start mt-2 h-[calc(100vh-6rem)]">
         <div className="flex text-[#1f1e2e] text-xl font-bold">
           {t("sign_in")}
@@ -67,7 +67,7 @@ const Login = () => {
           </div>
 
           <div className="flex mt-3 mx-3">
-            <div className="text-[#e54343] text-xs font-bold font-['Yekan Bakh'] leading-none">
+            <div className="text-[#e54343] text-xs font-bold leading-none">
               {t("error_user_already_exist")}
             </div>
           </div>
@@ -78,7 +78,7 @@ const Login = () => {
           <div className="text-white">{t("sign_in")}</div>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 

@@ -1,15 +1,17 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 
+import { Link } from "react-router-dom";
+
 // svg
 import arow_right from "../../../assets/icons/svg/ar.svg";
 import arrow_circle from "../../../assets/icons/svg/tp.svg";
-import { Link } from "react-router-dom";
+import clock from "../../../assets/icons/svg/tc.svg";
 
 const Confirm = () => {
   const { t } = useTranslation();
   return (
-    <>
+    <div className="justify-self-center md:w-[30rem]">
       <div className="flex flex-col justify-start h-[calc(100vh-4rem)]">
         <Link to="/sign-up">
           <div className="w-full justify-start items-center inline-flex mt-1">
@@ -30,11 +32,24 @@ const Confirm = () => {
           {t("send_to")} aimoonx@gmail.com
         </div>
         <div className="flex flex-row  mx-auto gap-2 mt-8">
-          <div className="w-[calc(16vw)] h-[calc(9vh)] bg-[#dde9f6] rounded-2xl"></div>
-          <div className="w-[calc(16vw)] h-[calc(9vh)] bg-[#dde9f6] rounded-2xl"></div>
-          <div className="w-[calc(16vw)] h-[calc(9vh)] bg-[#dde9f6] rounded-2xl"></div>
-          <div className="w-[calc(16vw)] h-[calc(9vh)] bg-[#dde9f6] rounded-2xl"></div>
-          <div className="w-[calc(16vw)] h-[calc(9vh)] bg-[#dde9f6] rounded-2xl"></div>
+          <div className="w-[calc(16vw)] md:w-[5rem] h-[calc(9vh)] md:h-[5rem] bg-[#dde9f6] rounded-2xl"></div>
+          <div className="w-[calc(16vw)] md:w-[5rem] h-[calc(9vh)] md:h-[5rem] bg-[#dde9f6] rounded-2xl"></div>
+          <div className="w-[calc(16vw)] md:w-[5rem] h-[calc(9vh)] md:h-[5rem] bg-[#dde9f6] rounded-2xl"></div>
+          <div className="w-[calc(16vw)] md:w-[5rem] h-[calc(9vh)] md:h-[5rem] bg-[#dde9f6] rounded-2xl"></div>
+          <div className="w-[calc(16vw)] md:w-[5rem] h-[calc(9vh)] md:h-[5rem] bg-[#dde9f6] rounded-2xl"></div>
+        </div>
+        <div className="flex w-full gap-2 justify-center mt-16">
+          <div className="flex items-center gap-2">
+            <img
+              alt="clock"
+              src={clock}
+              loading="lazy"
+              className="!w-5 !h-5"
+            ></img>
+          </div>
+          <div className="mt-1 text-center text-[#1f1e2e] text-base font-bold">
+            1:59 تا ارسال مجدد کد
+          </div>
         </div>
       </div>
       <div className="flex flex-col justify-end pb-4">
@@ -55,7 +70,7 @@ const Confirm = () => {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 

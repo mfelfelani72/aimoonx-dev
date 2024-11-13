@@ -1,8 +1,8 @@
 {
-  "hash": "4dfd500d72ee8f4cc0dd",
+  "hash": "06cb187adc5bc13f9033",
   "version": "5.96.1",
-  "time": 7715,
-  "builtAt": 1731501798969,
+  "time": 5553,
+  "builtAt": 1731504386706,
   "publicPath": "/",
   "outputPath": "/home/mohammad/Desktop/Projects/aimoonx-dev/dist",
   "assetsByChunkName": {
@@ -583,11 +583,11 @@
     },
     {
       "type": "asset",
-      "name": "333.aa9d0b2602bebbfbe3a0.js.gz",
+      "name": "333.407601673ca21072834c.js.gz",
       "size": 7373,
-      "emitted": false,
+      "emitted": true,
       "comparedForEmit": false,
-      "cached": true,
+      "cached": false,
       "info": {
         "compressed": true,
         "immutable": true,
@@ -625,15 +625,15 @@
     },
     {
       "type": "asset",
-      "name": "main-c9c31c89.d89214d29eebb3592473.js.gz",
-      "size": 6351,
+      "name": "main-c9c31c89.0ead39e634bdbd28f844.js.gz",
+      "size": 6454,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "compressed": true,
         "immutable": true,
-        "size": 6351
+        "size": 6454
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -646,17 +646,42 @@
     },
     {
       "type": "asset",
-      "name": "614.f56fbf65ac193229f7d9.js",
-      "size": 5286,
-      "emitted": true,
+      "name": "512.5556a53c31c181f08d94.js",
+      "size": 5583,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "f56fbf65ac193229f7d9",
+        "contenthash": "5556a53c31c181f08d94",
         "javascriptModule": false,
         "minimized": true,
-        "size": 5286
+        "size": 5583
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [
+        512
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "614.08f12725cf83364a4cf4.js",
+      "size": 5377,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "contenthash": "08f12725cf83364a4cf4",
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 5377
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -739,42 +764,17 @@
     },
     {
       "type": "asset",
-      "name": "512.cef98e556054dfa872cc.js",
-      "size": 4394,
+      "name": "737.89757fd620b87643fd04.js",
+      "size": 3970,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "cef98e556054dfa872cc",
+        "contenthash": "89757fd620b87643fd04",
         "javascriptModule": false,
         "minimized": true,
-        "size": 4394
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [],
-      "auxiliaryChunkIdHints": [],
-      "related": [],
-      "chunks": [
-        512
-      ],
-      "auxiliaryChunks": [],
-      "isOverSizeLimit": false
-    },
-    {
-      "type": "asset",
-      "name": "737.7a2dc5424be5d4353638.js",
-      "size": 3953,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": true,
-      "info": {
-        "immutable": true,
-        "contenthash": "7a2dc5424be5d4353638",
-        "javascriptModule": false,
-        "minimized": true,
-        "size": 3953
+        "size": 3970
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -3374,9 +3374,9 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "size": 22072,
+      "size": 22114,
       "sizes": {
-        "javascript": 22072
+        "javascript": 22114
       },
       "names": [],
       "idHints": [],
@@ -3385,7 +3385,7 @@
       ],
       "files": [],
       "auxiliaryFiles": [],
-      "hash": "bc185c2e370d99483b5c",
+      "hash": "fd21c5d03561ab94f221",
       "childrenByOrder": {},
       "id": 333,
       "siblings": [],
@@ -3485,7 +3485,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/Google.svg",
-              "loc": "94:9-15",
+              "loc": "96:9-15",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -3604,7 +3604,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/Plus.svg",
-              "loc": "60:9-13",
+              "loc": "62:9-13",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -3723,7 +3723,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/aimoonxall.svg",
-              "loc": "21:9-19",
+              "loc": "23:9-19",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -3842,7 +3842,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/login.svg",
-              "loc": "46:9-14",
+              "loc": "48:9-14",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -3961,7 +3961,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/persona_landing.svg",
-              "loc": "32:9-24",
+              "loc": "34:9-24",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -4080,7 +4080,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/tg.svg",
-              "loc": "81:9-17",
+              "loc": "83:9-17",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -4112,9 +4112,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 4219,
+          "size": 4261,
           "sizes": {
-            "javascript": 4219
+            "javascript": 4261
           },
           "built": true,
           "codeGenerated": true,
@@ -4220,9 +4220,9 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "size": 5134,
+      "size": 6546,
       "sizes": {
-        "javascript": 5134
+        "javascript": 6546
       },
       "names": [],
       "idHints": [],
@@ -4230,10 +4230,10 @@
         "main"
       ],
       "files": [
-        "512.cef98e556054dfa872cc.js"
+        "512.5556a53c31c181f08d94.js"
       ],
       "auxiliaryFiles": [],
-      "hash": "2a5e892cbd28c952f6bd",
+      "hash": "4ad6709247723f9c2740",
       "childrenByOrder": {},
       "id": 512,
       "siblings": [],
@@ -4319,7 +4319,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/ar.svg",
-              "loc": "5:0-58",
+              "loc": "6:0-58",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -4333,7 +4333,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/ar.svg",
-              "loc": "21:9-19",
+              "loc": "24:9-19",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -4357,6 +4357,125 @@
           "optimizationBailout": [
             "CommonJS bailout: module.exports is used directly at 1:0-14",
             "Statement (ExpressionStatement) with side effects in source code at 1:0-553",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 6
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 666,
+          "sizes": {
+            "javascript": 666
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/tc.svg",
+          "name": "./assets/icons/svg/tc.svg",
+          "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/tc.svg",
+          "index": 73,
+          "preOrderIndex": 73,
+          "index2": 72,
+          "postOrderIndex": 72,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "issuerName": "./src/features/auth/Confirm.js",
+          "issuerPath": [
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/App.js",
+              "name": "./src/app/containers/app/App.js",
+              "id": null
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/middleware/Middleware.js",
+              "name": "./src/app/middleware/Middleware.js",
+              "id": 9868
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Landing.js",
+              "name": "./src/app/containers/app/Landing.js",
+              "id": 4741
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "name": "./src/app/containers/app/Content.js",
+              "id": 1075
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "name": "./src/features/auth/Confirm.js",
+              "id": 7512
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 261,
+          "issuerId": 7512,
+          "chunks": [
+            512
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../../assets/icons/svg/tc.svg",
+              "loc": "8:0-53",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../../assets/icons/svg/tc.svg",
+              "loc": "49:9-14",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/tc.svg",
+              "module": "./assets/icons/svg/tc.svg",
+              "moduleName": "./assets/icons/svg/tc.svg",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/tc.svg",
+              "resolvedModule": "./assets/icons/svg/tc.svg",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "1:0-14",
+              "moduleId": 261,
+              "resolvedModuleId": 261
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 1:0-14",
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-666",
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 6
@@ -4438,7 +4557,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/tp.svg",
-              "loc": "6:0-60",
+              "loc": "7:0-60",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -4452,7 +4571,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/tp.svg",
-              "loc": "50:9-21",
+              "loc": "64:9-21",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -4484,9 +4603,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 2634,
+          "size": 3380,
           "sizes": {
-            "javascript": 2634
+            "javascript": 3380
           },
           "built": true,
           "codeGenerated": true,
@@ -4497,8 +4616,8 @@
           "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
           "index": 70,
           "preOrderIndex": 70,
-          "index2": 72,
-          "postOrderIndex": 72,
+          "index2": 73,
+          "postOrderIndex": 73,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -4566,6 +4685,7 @@
             "ModuleConcatenation bailout: Cannot concat with ./node_modules/react-router-dom/dist/index.js: Module ./node_modules/react-router-dom/dist/index.js is not in the same chunk(s) (expected in chunk(s) unnamed chunk(s), module is in chunk(s) unnamed chunk(s))",
             "ModuleConcatenation bailout: Cannot concat with ./node_modules/react/index.js: Module is not an ECMAScript module",
             "ModuleConcatenation bailout: Cannot concat with ./assets/icons/svg/ar.svg: Module is not an ECMAScript module",
+            "ModuleConcatenation bailout: Cannot concat with ./assets/icons/svg/tc.svg: Module is not an ECMAScript module",
             "ModuleConcatenation bailout: Cannot concat with ./assets/icons/svg/tp.svg: Module is not an ECMAScript module",
             "ModuleConcatenation bailout: Cannot concat with ./node_modules/react-i18next/dist/es/index.js: Module ./node_modules/react-i18next/dist/es/index.js is not in the same chunk(s) (expected in chunk(s) unnamed chunk(s), module is in chunk(s) )"
           ],
@@ -6353,9 +6473,9 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "size": 6498,
+      "size": 6594,
       "sizes": {
-        "javascript": 6498
+        "javascript": 6594
       },
       "names": [],
       "idHints": [],
@@ -6363,10 +6483,10 @@
         "main"
       ],
       "files": [
-        "614.f56fbf65ac193229f7d9.js"
+        "614.08f12725cf83364a4cf4.js"
       ],
       "auxiliaryFiles": [],
-      "hash": "cf6fdc106bc23ec44c12",
+      "hash": "62b18885077f5324f65d",
       "childrenByOrder": {},
       "id": 614,
       "siblings": [],
@@ -6466,7 +6586,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/Call.svg",
-              "loc": "78:9-13",
+              "loc": "80:9-13",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -6586,7 +6706,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/CloseSquare.svg",
-              "loc": "30:9-20",
+              "loc": "32:9-20",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -6600,7 +6720,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/CloseSquare.svg",
-              "loc": "56:9-20",
+              "loc": "58:9-20",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -6628,7 +6748,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/CloseSquare.svg",
-              "loc": "61:9-20",
+              "loc": "63:9-20",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -6642,7 +6762,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/CloseSquare.svg",
-              "loc": "87:9-20",
+              "loc": "89:9-20",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -6761,7 +6881,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/Message.svg",
-              "loc": "52:9-16",
+              "loc": "54:9-16",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -6793,9 +6913,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 4494,
+          "size": 4590,
           "sizes": {
-            "javascript": 4494
+            "javascript": 4590
           },
           "built": true,
           "codeGenerated": true,
@@ -7228,7 +7348,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react-i18next",
-              "loc": "9:24-38",
+              "loc": "10:24-38",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -8250,8 +8370,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/TransWithoutContext.js",
-          "issuerName": "./node_modules/react-i18next/dist/es/TransWithoutContext.js",
+          "issuer": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/useTranslation.js",
+          "issuerName": "./node_modules/react-i18next/dist/es/useTranslation.js",
           "issuerPath": [
             {
               "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
@@ -8279,16 +8399,16 @@
               "id": null
             },
             {
-              "identifier": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/TransWithoutContext.js",
-              "name": "./node_modules/react-i18next/dist/es/TransWithoutContext.js",
-              "id": null
+              "identifier": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/useTranslation.js",
+              "name": "./node_modules/react-i18next/dist/es/useTranslation.js",
+              "id": 8437
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 9454,
-          "issuerId": null,
+          "issuerId": 8437,
           "chunks": [
             679
           ],
@@ -9555,34 +9675,6 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "15:42-56",
-              "moduleId": 5333,
-              "resolvedModuleId": 5333
-            },
-            {
-              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
-              "module": "./src/features/auth/AuthLanding.js",
-              "moduleName": "./src/features/auth/AuthLanding.js",
-              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
-              "resolvedModule": "./src/features/auth/AuthLanding.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "react",
-              "loc": "15:77-96",
-              "moduleId": 5333,
-              "resolvedModuleId": 5333
-            },
-            {
-              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
-              "module": "./src/features/auth/AuthLanding.js",
-              "moduleName": "./src/features/auth/AuthLanding.js",
-              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
-              "resolvedModule": "./src/features/auth/AuthLanding.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "react",
               "loc": "17:18-37",
               "moduleId": 5333,
               "resolvedModuleId": 5333
@@ -9611,7 +9703,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "24:20-39",
+              "loc": "21:18-37",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9625,7 +9717,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "26:18-37",
+              "loc": "26:20-39",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9639,7 +9731,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "28:32-51",
+              "loc": "28:18-37",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9653,7 +9745,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "30:18-37",
+              "loc": "30:32-51",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9667,7 +9759,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "35:20-39",
+              "loc": "32:18-37",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9681,7 +9773,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "37:18-37",
+              "loc": "37:20-39",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9695,7 +9787,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "40:18-37",
+              "loc": "39:18-37",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9737,7 +9829,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "49:20-39",
+              "loc": "46:18-37",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9751,7 +9843,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "51:35-54",
+              "loc": "51:20-39",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9765,7 +9857,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "54:18-37",
+              "loc": "53:35-54",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9807,7 +9899,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "63:20-39",
+              "loc": "60:18-37",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9821,7 +9913,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "65:36-55",
+              "loc": "65:20-39",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9835,7 +9927,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "67:18-37",
+              "loc": "67:36-55",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9849,7 +9941,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "69:19-38",
+              "loc": "69:18-37",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9863,7 +9955,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "71:37-56",
+              "loc": "71:19-38",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9877,7 +9969,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "73:20-39",
+              "loc": "73:37-56",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9891,7 +9983,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "75:18-37",
+              "loc": "75:20-39",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9933,7 +10025,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "84:20-39",
+              "loc": "81:18-37",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9947,7 +10039,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "86:45-64",
+              "loc": "86:20-39",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9961,7 +10053,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "88:18-37",
+              "loc": "88:45-64",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -10003,7 +10095,21 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "97:20-39",
+              "loc": "94:18-37",
+              "moduleId": 5333,
+              "resolvedModuleId": 5333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "module": "./src/features/auth/AuthLanding.js",
+              "moduleName": "./src/features/auth/AuthLanding.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+              "resolvedModule": "./src/features/auth/AuthLanding.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "99:20-39",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -10031,7 +10137,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "11:22-41",
+              "loc": "12:22-41",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10045,7 +10151,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "11:42-56",
+              "loc": "14:18-37",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10059,7 +10165,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "11:77-96",
+              "loc": "16:18-37",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10073,7 +10179,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "13:18-37",
+              "loc": "18:18-37",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10087,7 +10193,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "15:18-37",
+              "loc": "20:18-37",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10101,7 +10207,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "17:18-37",
+              "loc": "22:18-37",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10115,7 +10221,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "19:18-37",
+              "loc": "27:22-41",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10129,7 +10235,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "24:22-41",
+              "loc": "29:38-57",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10143,7 +10249,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "26:38-57",
+              "loc": "31:55-74",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10157,7 +10263,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "28:55-74",
+              "loc": "33:18-37",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10171,7 +10277,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "30:18-37",
+              "loc": "35:19-38",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10185,7 +10291,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "32:19-38",
+              "loc": "37:19-38",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10199,7 +10305,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "34:19-38",
+              "loc": "39:19-38",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10213,7 +10319,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "36:19-38",
+              "loc": "41:19-38",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10227,7 +10333,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "38:19-38",
+              "loc": "43:20-39",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10241,7 +10347,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "40:21-40",
+              "loc": "45:18-37",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10255,7 +10361,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "42:18-37",
+              "loc": "47:18-37",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10269,7 +10375,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "44:18-37",
+              "loc": "52:20-39",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10283,7 +10389,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "46:47-66",
+              "loc": "54:111-130",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10297,7 +10403,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "48:18-37",
+              "loc": "56:18-37",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10311,7 +10417,49 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "53:19-38",
+              "loc": "58:18-37",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "60:47-66",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "62:18-37",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "67:19-38",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -10353,34 +10501,6 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "10:42-56",
-              "moduleId": 2737,
-              "resolvedModuleId": 2737
-            },
-            {
-              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
-              "module": "./src/features/auth/Login.js",
-              "moduleName": "./src/features/auth/Login.js",
-              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
-              "resolvedModule": "./src/features/auth/Login.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "react",
-              "loc": "10:77-96",
-              "moduleId": 2737,
-              "resolvedModuleId": 2737
-            },
-            {
-              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
-              "module": "./src/features/auth/Login.js",
-              "moduleName": "./src/features/auth/Login.js",
-              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
-              "resolvedModule": "./src/features/auth/Login.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "react",
               "loc": "12:18-37",
               "moduleId": 2737,
               "resolvedModuleId": 2737
@@ -10395,7 +10515,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "14:33-52",
+              "loc": "14:18-37",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10409,7 +10529,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "16:44-63",
+              "loc": "16:33-52",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10423,7 +10543,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "18:18-37",
+              "loc": "18:44-63",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10479,7 +10599,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "26:42-61",
+              "loc": "26:18-37",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10493,7 +10613,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "28:18-37",
+              "loc": "28:42-61",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10507,7 +10627,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "33:22-41",
+              "loc": "30:18-37",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10521,7 +10641,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "35:36-55",
+              "loc": "35:22-41",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10535,7 +10655,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "37:18-37",
+              "loc": "37:36-55",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10549,7 +10669,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "39:34-53",
+              "loc": "39:18-37",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10563,7 +10683,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "41:18-37",
+              "loc": "41:34-53",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10605,7 +10725,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "50:20-39",
+              "loc": "47:18-37",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10619,7 +10739,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "52:43-62",
+              "loc": "52:20-39",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10633,7 +10753,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "54:18-37",
+              "loc": "54:43-62",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10647,7 +10767,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "59:21-40",
+              "loc": "56:18-37",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10661,7 +10781,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "61:18-37",
+              "loc": "61:21-40",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10675,7 +10795,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "63:53-72",
+              "loc": "63:18-37",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10689,7 +10809,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "65:18-37",
+              "loc": "65:53-72",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10704,6 +10824,20 @@
               "explanation": "",
               "userRequest": "react",
               "loc": "67:18-37",
+              "moduleId": 2737,
+              "resolvedModuleId": 2737
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
+              "module": "./src/features/auth/Login.js",
+              "moduleName": "./src/features/auth/Login.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
+              "resolvedModule": "./src/features/auth/Login.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "69:18-37",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -10745,34 +10879,6 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "11:42-56",
-              "moduleId": 7614,
-              "resolvedModuleId": 7614
-            },
-            {
-              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
-              "module": "./src/features/auth/SignUp.js",
-              "moduleName": "./src/features/auth/SignUp.js",
-              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
-              "resolvedModule": "./src/features/auth/SignUp.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "react",
-              "loc": "11:77-96",
-              "moduleId": 7614,
-              "resolvedModuleId": 7614
-            },
-            {
-              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
-              "module": "./src/features/auth/SignUp.js",
-              "moduleName": "./src/features/auth/SignUp.js",
-              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
-              "resolvedModule": "./src/features/auth/SignUp.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "react",
               "loc": "13:18-37",
               "moduleId": 7614,
               "resolvedModuleId": 7614
@@ -10787,7 +10893,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "15:33-52",
+              "loc": "15:18-37",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -10801,7 +10907,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "17:45-64",
+              "loc": "17:33-52",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -10815,7 +10921,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "19:18-37",
+              "loc": "19:45-64",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -10843,7 +10949,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "27:19-38",
+              "loc": "23:18-37",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -10857,7 +10963,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "32:19-38",
+              "loc": "29:19-38",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -10871,7 +10977,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "34:18-37",
+              "loc": "34:19-38",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -10885,7 +10991,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "37:32-51",
+              "loc": "36:18-37",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -10899,7 +11005,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "39:18-37",
+              "loc": "39:32-51",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -10913,7 +11019,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "42:39-58",
+              "loc": "41:18-37",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -10927,7 +11033,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "44:18-37",
+              "loc": "44:39-58",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -10983,7 +11089,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "55:20-39",
+              "loc": "52:18-37",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -10997,7 +11103,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "57:41-60",
+              "loc": "57:20-39",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -11011,7 +11117,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "59:18-37",
+              "loc": "59:41-60",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -11025,7 +11131,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "64:21-40",
+              "loc": "61:18-37",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -11039,7 +11145,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "66:18-37",
+              "loc": "66:21-40",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -11053,7 +11159,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "68:47-66",
+              "loc": "68:18-37",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -11067,7 +11173,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "70:18-37",
+              "loc": "70:47-66",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -11123,7 +11229,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "81:20-39",
+              "loc": "78:18-37",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -11137,7 +11243,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "83:35-54",
+              "loc": "83:20-39",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -11151,7 +11257,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "85:18-37",
+              "loc": "85:35-54",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -11165,7 +11271,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "90:25-44",
+              "loc": "87:18-37",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -11179,7 +11285,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "92:18-37",
+              "loc": "92:25-44",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -11194,6 +11300,20 @@
               "explanation": "",
               "userRequest": "react",
               "loc": "94:18-37",
+              "moduleId": 7614,
+              "resolvedModuleId": 7614
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
+              "module": "./src/features/auth/SignUp.js",
+              "moduleName": "./src/features/auth/SignUp.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
+              "resolvedModule": "./src/features/auth/SignUp.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "96:18-37",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -16009,9 +16129,9 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "size": 4850,
+      "size": 4872,
       "sizes": {
-        "javascript": 4850
+        "javascript": 4872
       },
       "names": [],
       "idHints": [],
@@ -16019,10 +16139,10 @@
         "main"
       ],
       "files": [
-        "737.7a2dc5424be5d4353638.js"
+        "737.89757fd620b87643fd04.js"
       ],
       "auxiliaryFiles": [],
-      "hash": "d2dff97a252a1d3a5a06",
+      "hash": "5e70e0b395816c6c64c5",
       "childrenByOrder": {},
       "id": 737,
       "siblings": [],
@@ -16123,7 +16243,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/CloseSquare.svg",
-              "loc": "30:9-20",
+              "loc": "32:9-20",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -16137,7 +16257,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/CloseSquare.svg",
-              "loc": "56:9-20",
+              "loc": "58:9-20",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -16165,7 +16285,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/CloseSquare.svg",
-              "loc": "61:9-20",
+              "loc": "63:9-20",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -16179,7 +16299,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/CloseSquare.svg",
-              "loc": "87:9-20",
+              "loc": "89:9-20",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -16298,7 +16418,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/Lock.svg",
-              "loc": "47:9-13",
+              "loc": "49:9-13",
               "moduleId": 2737,
               "resolvedModuleId": 2737
             },
@@ -16330,9 +16450,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 3295,
+          "size": 3317,
           "sizes": {
-            "javascript": 3295
+            "javascript": 3317
           },
           "built": true,
           "codeGenerated": true,
@@ -18081,9 +18201,9 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 29579,
+      "size": 30159,
       "sizes": {
-        "javascript": 21149,
+        "javascript": 21729,
         "runtime": 8430
       },
       "names": [
@@ -18095,7 +18215,7 @@
       ],
       "files": [],
       "auxiliaryFiles": [],
-      "hash": "380925edec01a43e0258",
+      "hash": "1756e5c0315846b2d9ef",
       "childrenByOrder": {},
       "id": 838,
       "siblings": [
@@ -18117,9 +18237,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 21149,
+          "size": 21729,
           "sizes": {
-            "javascript": 21149
+            "javascript": 21729
           },
           "built": true,
           "codeGenerated": true,
@@ -19136,7 +19256,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react-router-dom",
-              "loc": "37:38-42",
+              "loc": "39:38-42",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -19150,7 +19270,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react-router-dom",
-              "loc": "51:55-59",
+              "loc": "53:55-59",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -19164,7 +19284,7 @@
               "active": false,
               "explanation": "",
               "userRequest": "react-router-dom",
-              "loc": "7:0-40",
+              "loc": "3:0-40",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -19178,7 +19298,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react-router-dom",
-              "loc": "13:38-42",
+              "loc": "16:38-42",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -22141,34 +22261,6 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "15:42-56",
-          "moduleId": 5333,
-          "resolvedModuleId": 5333
-        },
-        {
-          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
-          "module": "./src/features/auth/AuthLanding.js",
-          "moduleName": "./src/features/auth/AuthLanding.js",
-          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
-          "resolvedModule": "./src/features/auth/AuthLanding.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "react",
-          "loc": "15:77-96",
-          "moduleId": 5333,
-          "resolvedModuleId": 5333
-        },
-        {
-          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
-          "module": "./src/features/auth/AuthLanding.js",
-          "moduleName": "./src/features/auth/AuthLanding.js",
-          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
-          "resolvedModule": "./src/features/auth/AuthLanding.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "react",
           "loc": "17:18-37",
           "moduleId": 5333,
           "resolvedModuleId": 5333
@@ -22197,7 +22289,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "24:20-39",
+          "loc": "21:18-37",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22211,7 +22303,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "26:18-37",
+          "loc": "26:20-39",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22225,7 +22317,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "28:32-51",
+          "loc": "28:18-37",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22239,7 +22331,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "30:18-37",
+          "loc": "30:32-51",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22253,7 +22345,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "35:20-39",
+          "loc": "32:18-37",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22267,7 +22359,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "37:18-37",
+          "loc": "37:20-39",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22281,7 +22373,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "40:18-37",
+          "loc": "39:18-37",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22323,7 +22415,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "49:20-39",
+          "loc": "46:18-37",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22337,7 +22429,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "51:35-54",
+          "loc": "51:20-39",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22351,7 +22443,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "54:18-37",
+          "loc": "53:35-54",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22393,7 +22485,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "63:20-39",
+          "loc": "60:18-37",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22407,7 +22499,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "65:36-55",
+          "loc": "65:20-39",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22421,7 +22513,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "67:18-37",
+          "loc": "67:36-55",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22435,7 +22527,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "69:19-38",
+          "loc": "69:18-37",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22449,7 +22541,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "71:37-56",
+          "loc": "71:19-38",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22463,7 +22555,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "73:20-39",
+          "loc": "73:37-56",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22477,7 +22569,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "75:18-37",
+          "loc": "75:20-39",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22519,7 +22611,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "84:20-39",
+          "loc": "81:18-37",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22533,7 +22625,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "86:45-64",
+          "loc": "86:20-39",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22547,7 +22639,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "88:18-37",
+          "loc": "88:45-64",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22589,7 +22681,21 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "97:20-39",
+          "loc": "94:18-37",
+          "moduleId": 5333,
+          "resolvedModuleId": 5333
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "module": "./src/features/auth/AuthLanding.js",
+          "moduleName": "./src/features/auth/AuthLanding.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/AuthLanding.js",
+          "resolvedModule": "./src/features/auth/AuthLanding.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "99:20-39",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -22617,7 +22723,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "11:22-41",
+          "loc": "12:22-41",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22631,7 +22737,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "11:42-56",
+          "loc": "14:18-37",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22645,7 +22751,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "11:77-96",
+          "loc": "16:18-37",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22659,7 +22765,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "13:18-37",
+          "loc": "18:18-37",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22673,7 +22779,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "15:18-37",
+          "loc": "20:18-37",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22687,7 +22793,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "17:18-37",
+          "loc": "22:18-37",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22701,7 +22807,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "19:18-37",
+          "loc": "27:22-41",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22715,7 +22821,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "24:22-41",
+          "loc": "29:38-57",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22729,7 +22835,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "26:38-57",
+          "loc": "31:55-74",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22743,7 +22849,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "28:55-74",
+          "loc": "33:18-37",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22757,7 +22863,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "30:18-37",
+          "loc": "35:19-38",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22771,7 +22877,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "32:19-38",
+          "loc": "37:19-38",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22785,7 +22891,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "34:19-38",
+          "loc": "39:19-38",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22799,7 +22905,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "36:19-38",
+          "loc": "41:19-38",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22813,7 +22919,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "38:19-38",
+          "loc": "43:20-39",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22827,7 +22933,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "40:21-40",
+          "loc": "45:18-37",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22841,7 +22947,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "42:18-37",
+          "loc": "47:18-37",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22855,7 +22961,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "44:18-37",
+          "loc": "52:20-39",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22869,7 +22975,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "46:47-66",
+          "loc": "54:111-130",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22883,7 +22989,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "48:18-37",
+          "loc": "56:18-37",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22897,7 +23003,49 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "53:19-38",
+          "loc": "58:18-37",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "60:47-66",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "62:18-37",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "67:19-38",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -22939,34 +23087,6 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "10:42-56",
-          "moduleId": 2737,
-          "resolvedModuleId": 2737
-        },
-        {
-          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
-          "module": "./src/features/auth/Login.js",
-          "moduleName": "./src/features/auth/Login.js",
-          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
-          "resolvedModule": "./src/features/auth/Login.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "react",
-          "loc": "10:77-96",
-          "moduleId": 2737,
-          "resolvedModuleId": 2737
-        },
-        {
-          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
-          "module": "./src/features/auth/Login.js",
-          "moduleName": "./src/features/auth/Login.js",
-          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
-          "resolvedModule": "./src/features/auth/Login.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "react",
           "loc": "12:18-37",
           "moduleId": 2737,
           "resolvedModuleId": 2737
@@ -22981,7 +23101,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "14:33-52",
+          "loc": "14:18-37",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -22995,7 +23115,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "16:44-63",
+          "loc": "16:33-52",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -23009,7 +23129,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "18:18-37",
+          "loc": "18:44-63",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -23065,7 +23185,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "26:42-61",
+          "loc": "26:18-37",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -23079,7 +23199,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "28:18-37",
+          "loc": "28:42-61",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -23093,7 +23213,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "33:22-41",
+          "loc": "30:18-37",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -23107,7 +23227,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "35:36-55",
+          "loc": "35:22-41",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -23121,7 +23241,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "37:18-37",
+          "loc": "37:36-55",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -23135,7 +23255,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "39:34-53",
+          "loc": "39:18-37",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -23149,7 +23269,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "41:18-37",
+          "loc": "41:34-53",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -23191,7 +23311,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "50:20-39",
+          "loc": "47:18-37",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -23205,7 +23325,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "52:43-62",
+          "loc": "52:20-39",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -23219,7 +23339,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "54:18-37",
+          "loc": "54:43-62",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -23233,7 +23353,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "59:21-40",
+          "loc": "56:18-37",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -23247,7 +23367,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "61:18-37",
+          "loc": "61:21-40",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -23261,7 +23381,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "63:53-72",
+          "loc": "63:18-37",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -23275,7 +23395,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "65:18-37",
+          "loc": "65:53-72",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -23290,6 +23410,20 @@
           "explanation": "",
           "userRequest": "react",
           "loc": "67:18-37",
+          "moduleId": 2737,
+          "resolvedModuleId": 2737
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
+          "module": "./src/features/auth/Login.js",
+          "moduleName": "./src/features/auth/Login.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
+          "resolvedModule": "./src/features/auth/Login.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "69:18-37",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -23331,34 +23465,6 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "11:42-56",
-          "moduleId": 7614,
-          "resolvedModuleId": 7614
-        },
-        {
-          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
-          "module": "./src/features/auth/SignUp.js",
-          "moduleName": "./src/features/auth/SignUp.js",
-          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
-          "resolvedModule": "./src/features/auth/SignUp.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "react",
-          "loc": "11:77-96",
-          "moduleId": 7614,
-          "resolvedModuleId": 7614
-        },
-        {
-          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
-          "module": "./src/features/auth/SignUp.js",
-          "moduleName": "./src/features/auth/SignUp.js",
-          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
-          "resolvedModule": "./src/features/auth/SignUp.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "react",
           "loc": "13:18-37",
           "moduleId": 7614,
           "resolvedModuleId": 7614
@@ -23373,7 +23479,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "15:33-52",
+          "loc": "15:18-37",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23387,7 +23493,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "17:45-64",
+          "loc": "17:33-52",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23401,7 +23507,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "19:18-37",
+          "loc": "19:45-64",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23429,7 +23535,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "27:19-38",
+          "loc": "23:18-37",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23443,7 +23549,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "32:19-38",
+          "loc": "29:19-38",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23457,7 +23563,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "34:18-37",
+          "loc": "34:19-38",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23471,7 +23577,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "37:32-51",
+          "loc": "36:18-37",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23485,7 +23591,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "39:18-37",
+          "loc": "39:32-51",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23499,7 +23605,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "42:39-58",
+          "loc": "41:18-37",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23513,7 +23619,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "44:18-37",
+          "loc": "44:39-58",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23569,7 +23675,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "55:20-39",
+          "loc": "52:18-37",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23583,7 +23689,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "57:41-60",
+          "loc": "57:20-39",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23597,7 +23703,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "59:18-37",
+          "loc": "59:41-60",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23611,7 +23717,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "64:21-40",
+          "loc": "61:18-37",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23625,7 +23731,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "66:18-37",
+          "loc": "66:21-40",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23639,7 +23745,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "68:47-66",
+          "loc": "68:18-37",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23653,7 +23759,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "70:18-37",
+          "loc": "70:47-66",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23709,7 +23815,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "81:20-39",
+          "loc": "78:18-37",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23723,7 +23829,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "83:35-54",
+          "loc": "83:20-39",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23737,7 +23843,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "85:18-37",
+          "loc": "85:35-54",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23751,7 +23857,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "90:25-44",
+          "loc": "87:18-37",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23765,7 +23871,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "92:18-37",
+          "loc": "92:25-44",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -23780,6 +23886,20 @@
           "explanation": "",
           "userRequest": "react",
           "loc": "94:18-37",
+          "moduleId": 7614,
+          "resolvedModuleId": 7614
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
+          "module": "./src/features/auth/SignUp.js",
+          "moduleName": "./src/features/auth/SignUp.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
+          "resolvedModule": "./src/features/auth/SignUp.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "96:18-37",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -27617,7 +27737,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react-router-dom",
-          "loc": "37:38-42",
+          "loc": "39:38-42",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -27631,7 +27751,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react-router-dom",
-          "loc": "51:55-59",
+          "loc": "53:55-59",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -27645,7 +27765,7 @@
           "active": false,
           "explanation": "",
           "userRequest": "react-router-dom",
-          "loc": "7:0-40",
+          "loc": "3:0-40",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -27659,7 +27779,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react-router-dom",
-          "loc": "13:38-42",
+          "loc": "16:38-42",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -32126,9 +32246,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 21149,
+      "size": 21729,
       "sizes": {
-        "javascript": 21149
+        "javascript": 21729
       },
       "built": true,
       "codeGenerated": true,
@@ -33872,7 +33992,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react-i18next",
-          "loc": "9:24-38",
+          "loc": "10:24-38",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -37209,9 +37329,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 4219,
+      "size": 4261,
       "sizes": {
-        "javascript": 4219
+        "javascript": 4261
       },
       "built": true,
       "codeGenerated": true,
@@ -37303,9 +37423,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 3295,
+      "size": 3317,
       "sizes": {
-        "javascript": 3295
+        "javascript": 3317
       },
       "built": true,
       "codeGenerated": true,
@@ -37392,9 +37512,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 4494,
+      "size": 4590,
       "sizes": {
-        "javascript": 4494
+        "javascript": 4590
       },
       "built": true,
       "codeGenerated": true,
@@ -37482,9 +37602,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 2634,
+      "size": 3380,
       "sizes": {
-        "javascript": 2634
+        "javascript": 3380
       },
       "built": true,
       "codeGenerated": true,
@@ -37495,8 +37615,8 @@
       "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
       "index": 70,
       "preOrderIndex": 70,
-      "index2": 72,
-      "postOrderIndex": 72,
+      "index2": 73,
+      "postOrderIndex": 73,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -37563,6 +37683,7 @@
         "ModuleConcatenation bailout: Cannot concat with ./node_modules/react-router-dom/dist/index.js: Module ./node_modules/react-router-dom/dist/index.js is not in the same chunk(s) (expected in chunk(s) unnamed chunk(s), module is in chunk(s) unnamed chunk(s))",
         "ModuleConcatenation bailout: Cannot concat with ./node_modules/react/index.js: Module is not an ECMAScript module",
         "ModuleConcatenation bailout: Cannot concat with ./assets/icons/svg/ar.svg: Module is not an ECMAScript module",
+        "ModuleConcatenation bailout: Cannot concat with ./assets/icons/svg/tc.svg: Module is not an ECMAScript module",
         "ModuleConcatenation bailout: Cannot concat with ./assets/icons/svg/tp.svg: Module is not an ECMAScript module",
         "ModuleConcatenation bailout: Cannot concat with ./node_modules/react-i18next/dist/es/index.js: Module ./node_modules/react-i18next/dist/es/index.js is not in the same chunk(s) (expected in chunk(s) unnamed chunk(s), module is in chunk(s) )"
       ],
@@ -37692,8 +37813,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/TransWithoutContext.js",
-      "issuerName": "./node_modules/react-i18next/dist/es/TransWithoutContext.js",
+      "issuer": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/useTranslation.js",
+      "issuerName": "./node_modules/react-i18next/dist/es/useTranslation.js",
       "issuerPath": [
         {
           "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
@@ -37721,16 +37842,16 @@
           "id": null
         },
         {
-          "identifier": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/TransWithoutContext.js",
-          "name": "./node_modules/react-i18next/dist/es/TransWithoutContext.js",
-          "id": null
+          "identifier": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/useTranslation.js",
+          "name": "./node_modules/react-i18next/dist/es/useTranslation.js",
+          "id": 8437
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 9454,
-      "issuerId": null,
+      "issuerId": 8437,
       "chunks": [
         679
       ],
@@ -38446,7 +38567,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/aimoonxall.svg",
-          "loc": "21:9-19",
+          "loc": "23:9-19",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -38564,7 +38685,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/persona_landing.svg",
-          "loc": "32:9-24",
+          "loc": "34:9-24",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -38682,7 +38803,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/login.svg",
-          "loc": "46:9-14",
+          "loc": "48:9-14",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -38800,7 +38921,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/Plus.svg",
-          "loc": "60:9-13",
+          "loc": "62:9-13",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -38918,7 +39039,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/tg.svg",
-          "loc": "81:9-17",
+          "loc": "83:9-17",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -39036,7 +39157,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/Google.svg",
-          "loc": "94:9-15",
+          "loc": "96:9-15",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -39155,7 +39276,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/CloseSquare.svg",
-          "loc": "30:9-20",
+          "loc": "32:9-20",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -39169,7 +39290,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/CloseSquare.svg",
-          "loc": "56:9-20",
+          "loc": "58:9-20",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -39197,7 +39318,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/CloseSquare.svg",
-          "loc": "61:9-20",
+          "loc": "63:9-20",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -39211,7 +39332,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/CloseSquare.svg",
-          "loc": "87:9-20",
+          "loc": "89:9-20",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -39329,7 +39450,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/Lock.svg",
-          "loc": "47:9-13",
+          "loc": "49:9-13",
           "moduleId": 2737,
           "resolvedModuleId": 2737
         },
@@ -39447,7 +39568,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/Message.svg",
-          "loc": "52:9-16",
+          "loc": "54:9-16",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -39565,7 +39686,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/Call.svg",
-          "loc": "78:9-13",
+          "loc": "80:9-13",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -39669,7 +39790,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/ar.svg",
-          "loc": "5:0-58",
+          "loc": "6:0-58",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -39683,7 +39804,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/ar.svg",
-          "loc": "21:9-19",
+          "loc": "24:9-19",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -39787,7 +39908,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/tp.svg",
-          "loc": "6:0-60",
+          "loc": "7:0-60",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -39801,7 +39922,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/tp.svg",
-          "loc": "50:9-21",
+          "loc": "64:9-21",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -39825,6 +39946,124 @@
       "optimizationBailout": [
         "CommonJS bailout: module.exports is used directly at 1:0-14",
         "Statement (ExpressionStatement) with side effects in source code at 1:0-1947",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 6
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 666,
+      "sizes": {
+        "javascript": 666
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/tc.svg",
+      "name": "./assets/icons/svg/tc.svg",
+      "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/tc.svg",
+      "index": 73,
+      "preOrderIndex": 73,
+      "index2": 72,
+      "postOrderIndex": 72,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+      "issuerName": "./src/features/auth/Confirm.js",
+      "issuerPath": [
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/App.js",
+          "name": "./src/app/containers/app/App.js",
+          "id": null
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/middleware/Middleware.js",
+          "name": "./src/app/middleware/Middleware.js",
+          "id": 9868
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Landing.js",
+          "name": "./src/app/containers/app/Landing.js",
+          "id": 4741
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "name": "./src/app/containers/app/Content.js",
+          "id": 1075
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "name": "./src/features/auth/Confirm.js",
+          "id": 7512
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 261,
+      "issuerId": 7512,
+      "chunks": [
+        512
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../../assets/icons/svg/tc.svg",
+          "loc": "8:0-53",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../../assets/icons/svg/tc.svg",
+          "loc": "49:9-14",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/tc.svg",
+          "module": "./assets/icons/svg/tc.svg",
+          "moduleName": "./assets/icons/svg/tc.svg",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/tc.svg",
+          "resolvedModule": "./assets/icons/svg/tc.svg",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "1:0-14",
+          "moduleId": 261,
+          "resolvedModuleId": 261
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 1:0-14",
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-666",
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 6
@@ -40520,8 +40759,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "079ca65e371938d336b6",
       "version": "5.96.1",
-      "time": 288,
-      "builtAt": 1731501791572,
+      "time": 270,
+      "builtAt": 1731504381447,
       "publicPath": "",
       "outputPath": "/home/mohammad/Desktop/Projects/aimoonx-dev/dist",
       "assetsByChunkName": {},
