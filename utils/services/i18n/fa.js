@@ -17,6 +17,11 @@ const fa = {
   error_invalid_email : "لطفا نشانی اینترنتی معتبر وارد کنید",
   phone_number : "شماره موبایل",
 
+  confirm_code: "کد تایید",
+  send_to: "ارسال به ",
+  question_confirm_code: "کد فعال‌سازی را دریافت نکردید؟",
+  get_again_confirm: "دریافت مجدد کد",
+
 
   // settings
 

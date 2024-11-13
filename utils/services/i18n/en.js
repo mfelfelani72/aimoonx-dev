@@ -18,6 +18,11 @@ const en = {
   error_invalid_email : "Please enter valid a Email",
   phone_number : "Phone Number",
 
+  confirm_code: "Confirm Code",
+  send_to: "Send To",
+  question_confirm_code: "Didn't get the code?",
+  get_again_confirm: "Get again code",
+
 
   // settings
   persion: "Persion",

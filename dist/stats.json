@@ -1,13 +1,13 @@
 {
-  "hash": "5dd402f41778822b5377",
+  "hash": "3a497bccb0ab05595ef3",
   "version": "5.96.1",
-  "time": 5578,
-  "builtAt": 1731493840258,
+  "time": 5608,
+  "builtAt": 1731500479475,
   "publicPath": "/",
   "outputPath": "/home/mohammad/Desktop/Projects/aimoonx-dev/dist",
   "assetsByChunkName": {
     "main-bde52cb3": [
-      "main-bde52cb3.28a7ed140f3be0069cdf.js"
+      "main-bde52cb3.a4fd2d23357904377b98.js"
     ]
   },
   "assets": [
@@ -583,15 +583,15 @@
     },
     {
       "type": "asset",
-      "name": "333.aecd60fa8812bc96d387.js.gz",
-      "size": 7379,
+      "name": "333.aa9d0b2602bebbfbe3a0.js.gz",
+      "size": 7373,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "compressed": true,
         "immutable": true,
-        "size": 7379
+        "size": 7373
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -625,15 +625,15 @@
     },
     {
       "type": "asset",
-      "name": "main-c9c31c89.5f98f7110dbfdf487aab.js.gz",
-      "size": 6083,
+      "name": "main-c9c31c89.17f9a97ad4589179c4f7.js.gz",
+      "size": 6253,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "compressed": true,
         "immutable": true,
-        "size": 6083
+        "size": 6253
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -646,17 +646,17 @@
     },
     {
       "type": "asset",
-      "name": "614.293049428c0de0e8e508.js",
-      "size": 5231,
-      "emitted": true,
+      "name": "614.20685fda4eb485307112.js",
+      "size": 5255,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "293049428c0de0e8e508",
+        "contenthash": "20685fda4eb485307112",
         "javascriptModule": false,
         "minimized": true,
-        "size": 5231
+        "size": 5255
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -691,6 +691,33 @@
     },
     {
       "type": "asset",
+      "name": "main-bde52cb3.a4fd2d23357904377b98.js",
+      "size": 4975,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "immutable": true,
+        "contenthash": "a4fd2d23357904377b98",
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 4975
+      },
+      "chunkNames": [
+        "main-bde52cb3"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [
+        997
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
       "name": "assets/images/icon-48x48.png",
       "size": 4759,
       "emitted": false,
@@ -712,27 +739,25 @@
     },
     {
       "type": "asset",
-      "name": "main-bde52cb3.28a7ed140f3be0069cdf.js",
-      "size": 4662,
+      "name": "512.664c0ff6b454ce1e4443.js",
+      "size": 4379,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "contenthash": "28a7ed140f3be0069cdf",
+        "contenthash": "664c0ff6b454ce1e4443",
         "javascriptModule": false,
         "minimized": true,
-        "size": 4662
+        "size": 4379
       },
-      "chunkNames": [
-        "main-bde52cb3"
-      ],
+      "chunkNames": [],
       "chunkIdHints": [],
       "auxiliaryChunkNames": [],
       "auxiliaryChunkIdHints": [],
       "related": [],
       "chunks": [
-        997
+        512
       ],
       "auxiliaryChunks": [],
       "isOverSizeLimit": false
@@ -765,13 +790,13 @@
     {
       "type": "asset",
       "name": "service-worker.js",
-      "size": 3702,
+      "size": 3753,
       "emitted": true,
-      "comparedForEmit": false,
+      "comparedForEmit": true,
       "cached": false,
       "info": {
         "minimized": true,
-        "size": 3702
+        "size": 3753
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -877,7 +902,7 @@
       "name": "index.html",
       "size": 1369,
       "emitted": true,
-      "comparedForEmit": false,
+      "comparedForEmit": true,
       "cached": false,
       "info": {
         "size": 1369
@@ -936,17 +961,17 @@
     },
     {
       "type": "asset",
-      "name": "75.4cce51a69f4c597f656a.js",
-      "size": 677,
+      "name": "75.66fa5191e6129aea0e99.js",
+      "size": 814,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "4cce51a69f4c597f656a",
+        "contenthash": "66fa5191e6129aea0e99",
         "javascriptModule": false,
         "minimized": true,
-        "size": 677
+        "size": 814
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1016,9 +1041,9 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "size": 1025,
+      "size": 1268,
       "sizes": {
-        "javascript": 1025
+        "javascript": 1268
       },
       "names": [],
       "idHints": [],
@@ -1026,10 +1051,10 @@
         "main"
       ],
       "files": [
-        "75.4cce51a69f4c597f656a.js"
+        "75.66fa5191e6129aea0e99.js"
       ],
       "auxiliaryFiles": [],
-      "hash": "f9619904ae1374c34c7d",
+      "hash": "386918aa6e451b38671c",
       "childrenByOrder": {},
       "id": 75,
       "siblings": [],
@@ -1038,6 +1063,7 @@
       ],
       "children": [
         333,
+        512,
         614,
         737
       ],
@@ -1046,9 +1072,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 1025,
+          "size": 1268,
           "sizes": {
-            "javascript": 1025
+            "javascript": 1268
           },
           "built": true,
           "codeGenerated": true,
@@ -3348,9 +3374,9 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "size": 22145,
+      "size": 22072,
       "sizes": {
-        "javascript": 22145
+        "javascript": 22072
       },
       "names": [],
       "idHints": [],
@@ -3359,7 +3385,7 @@
       ],
       "files": [],
       "auxiliaryFiles": [],
-      "hash": "6a221f5357a28e176f17",
+      "hash": "bc185c2e370d99483b5c",
       "childrenByOrder": {},
       "id": 333,
       "siblings": [],
@@ -4086,9 +4112,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 4292,
+          "size": 4219,
           "sizes": {
-            "javascript": 4292
+            "javascript": 4219
           },
           "built": true,
           "codeGenerated": true,
@@ -4185,6 +4211,374 @@
           "moduleName": "./src/app/containers/app/Content.js",
           "loc": "4:9-56",
           "request": "../../../features/auth/AuthLanding.js",
+          "moduleId": 1075
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 5119,
+      "sizes": {
+        "javascript": 5119
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "512.664c0ff6b454ce1e4443.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "26569def087ed764e039",
+      "childrenByOrder": {},
+      "id": 512,
+      "siblings": [],
+      "parents": [
+        75
+      ],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 553,
+          "sizes": {
+            "javascript": 553
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/ar.svg",
+          "name": "./assets/icons/svg/ar.svg",
+          "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/ar.svg",
+          "index": 71,
+          "preOrderIndex": 71,
+          "index2": 70,
+          "postOrderIndex": 70,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "issuerName": "./src/features/auth/Confirm.js",
+          "issuerPath": [
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/App.js",
+              "name": "./src/app/containers/app/App.js",
+              "id": null
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/middleware/Middleware.js",
+              "name": "./src/app/middleware/Middleware.js",
+              "id": 9868
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Landing.js",
+              "name": "./src/app/containers/app/Landing.js",
+              "id": 4741
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "name": "./src/app/containers/app/Content.js",
+              "id": 1075
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "name": "./src/features/auth/Confirm.js",
+              "id": 7512
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 8071,
+          "issuerId": 7512,
+          "chunks": [
+            512
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../../assets/icons/svg/ar.svg",
+              "loc": "5:0-58",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../../assets/icons/svg/ar.svg",
+              "loc": "21:9-19",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/ar.svg",
+              "module": "./assets/icons/svg/ar.svg",
+              "moduleName": "./assets/icons/svg/ar.svg",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/ar.svg",
+              "resolvedModule": "./assets/icons/svg/ar.svg",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "1:0-14",
+              "moduleId": 8071,
+              "resolvedModuleId": 8071
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 1:0-14",
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-553",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 6
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 1947,
+          "sizes": {
+            "javascript": 1947
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/tp.svg",
+          "name": "./assets/icons/svg/tp.svg",
+          "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/tp.svg",
+          "index": 72,
+          "preOrderIndex": 72,
+          "index2": 71,
+          "postOrderIndex": 71,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "issuerName": "./src/features/auth/Confirm.js",
+          "issuerPath": [
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/App.js",
+              "name": "./src/app/containers/app/App.js",
+              "id": null
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/middleware/Middleware.js",
+              "name": "./src/app/middleware/Middleware.js",
+              "id": 9868
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Landing.js",
+              "name": "./src/app/containers/app/Landing.js",
+              "id": 4741
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "name": "./src/app/containers/app/Content.js",
+              "id": 1075
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "name": "./src/features/auth/Confirm.js",
+              "id": 7512
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 2742,
+          "issuerId": 7512,
+          "chunks": [
+            512
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../../assets/icons/svg/tp.svg",
+              "loc": "6:0-60",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../../assets/icons/svg/tp.svg",
+              "loc": "50:9-21",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/tp.svg",
+              "module": "./assets/icons/svg/tp.svg",
+              "moduleName": "./assets/icons/svg/tp.svg",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/tp.svg",
+              "resolvedModule": "./assets/icons/svg/tp.svg",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "1:0-14",
+              "moduleId": 2742,
+              "resolvedModuleId": 2742
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 1:0-14",
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-1947",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 6
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 2619,
+          "sizes": {
+            "javascript": 2619
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "name": "./src/features/auth/Confirm.js",
+          "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "index": 70,
+          "preOrderIndex": 70,
+          "index2": 72,
+          "postOrderIndex": 72,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "issuerName": "./src/app/containers/app/Content.js",
+          "issuerPath": [
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/App.js",
+              "name": "./src/app/containers/app/App.js",
+              "id": null
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/middleware/Middleware.js",
+              "name": "./src/app/middleware/Middleware.js",
+              "id": 9868
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Landing.js",
+              "name": "./src/app/containers/app/Landing.js",
+              "id": 4741
+            },
+            {
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "name": "./src/app/containers/app/Content.js",
+              "id": 1075
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 7512,
+          "issuerId": 1075,
+          "chunks": [
+            512
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "module": "./src/app/containers/app/Content.js",
+              "moduleName": "./src/app/containers/app/Content.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "resolvedModule": "./src/app/containers/app/Content.js",
+              "type": "import()",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../../features/auth/Confirm.js",
+              "loc": "13:9-52",
+              "moduleId": 1075,
+              "resolvedModuleId": 1075
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Dependency (harmony side effect evaluation) with side effects at 1:0-26",
+            "ModuleConcatenation bailout: Cannot concat with ./node_modules/react-router-dom/dist/index.js: Module ./node_modules/react-router-dom/dist/index.js is not in the same chunk(s) (expected in chunk(s) unnamed chunk(s), module is in chunk(s) unnamed chunk(s))",
+            "ModuleConcatenation bailout: Cannot concat with ./node_modules/react/index.js: Module is not an ECMAScript module",
+            "ModuleConcatenation bailout: Cannot concat with ./assets/icons/svg/ar.svg: Module is not an ECMAScript module",
+            "ModuleConcatenation bailout: Cannot concat with ./assets/icons/svg/tp.svg: Module is not an ECMAScript module",
+            "ModuleConcatenation bailout: Cannot concat with ./node_modules/react-i18next/dist/es/index.js: Module ./node_modules/react-i18next/dist/es/index.js is not in the same chunk(s) (expected in chunk(s) unnamed chunk(s), module is in chunk(s) )"
+          ],
+          "depth": 5
+        }
+      ],
+      "origins": [
+        {
+          "module": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "moduleName": "./src/app/containers/app/Content.js",
+          "loc": "13:9-52",
+          "request": "../../../features/auth/Confirm.js",
           "moduleId": 1075
         }
       ]
@@ -5959,9 +6353,9 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "size": 6443,
+      "size": 6467,
       "sizes": {
-        "javascript": 6443
+        "javascript": 6467
       },
       "names": [],
       "idHints": [],
@@ -5969,10 +6363,10 @@
         "main"
       ],
       "files": [
-        "614.293049428c0de0e8e508.js"
+        "614.20685fda4eb485307112.js"
       ],
       "auxiliaryFiles": [],
-      "hash": "964922eeff2b44f3a41f",
+      "hash": "cee59f968b029767bcb0",
       "childrenByOrder": {},
       "id": 614,
       "siblings": [],
@@ -6399,9 +6793,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 4439,
+          "size": 4463,
           "sizes": {
-            "javascript": 4439
+            "javascript": 4463
           },
           "built": true,
           "codeGenerated": true,
@@ -6809,6 +7203,34 @@
               "loc": "13:24-38",
               "moduleId": 5333,
               "resolvedModuleId": 5333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react-i18next",
+              "loc": "2:0-47",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react-i18next",
+              "loc": "9:24-38",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
             },
             {
               "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
@@ -7828,8 +8250,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/TransWithoutContext.js",
-          "issuerName": "./node_modules/react-i18next/dist/es/TransWithoutContext.js",
+          "issuer": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/useTranslation.js",
+          "issuerName": "./node_modules/react-i18next/dist/es/useTranslation.js",
           "issuerPath": [
             {
               "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
@@ -7857,16 +8279,16 @@
               "id": null
             },
             {
-              "identifier": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/TransWithoutContext.js",
-              "name": "./node_modules/react-i18next/dist/es/TransWithoutContext.js",
-              "id": null
+              "identifier": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/useTranslation.js",
+              "name": "./node_modules/react-i18next/dist/es/useTranslation.js",
+              "id": 8437
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 9454,
-          "issuerId": null,
+          "issuerId": 8437,
           "chunks": [
             679
           ],
@@ -8839,7 +9261,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "13:22-41",
+              "loc": "12:31-35",
               "moduleId": 1075,
               "resolvedModuleId": 1075
             },
@@ -8853,7 +9275,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "15:18-37",
+              "loc": "16:22-41",
               "moduleId": 1075,
               "resolvedModuleId": 1075
             },
@@ -8867,7 +9289,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "15:65-84",
+              "loc": "18:18-37",
               "moduleId": 1075,
               "resolvedModuleId": 1075
             },
@@ -8881,21 +9303,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "17:26-45",
-              "moduleId": 1075,
-              "resolvedModuleId": 1075
-            },
-            {
-              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
-              "module": "./src/app/containers/app/Content.js",
-              "moduleName": "./src/app/containers/app/Content.js",
-              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
-              "resolvedModule": "./src/app/containers/app/Content.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "react",
-              "loc": "18:19-38",
+              "loc": "18:65-84",
               "moduleId": 1075,
               "resolvedModuleId": 1075
             },
@@ -8938,6 +9346,62 @@
               "explanation": "",
               "userRequest": "react",
               "loc": "23:26-45",
+              "moduleId": 1075,
+              "resolvedModuleId": 1075
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "module": "./src/app/containers/app/Content.js",
+              "moduleName": "./src/app/containers/app/Content.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "resolvedModule": "./src/app/containers/app/Content.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "24:19-38",
+              "moduleId": 1075,
+              "resolvedModuleId": 1075
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "module": "./src/app/containers/app/Content.js",
+              "moduleName": "./src/app/containers/app/Content.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "resolvedModule": "./src/app/containers/app/Content.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "26:26-45",
+              "moduleId": 1075,
+              "resolvedModuleId": 1075
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "module": "./src/app/containers/app/Content.js",
+              "moduleName": "./src/app/containers/app/Content.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "resolvedModule": "./src/app/containers/app/Content.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "27:19-38",
+              "moduleId": 1075,
+              "resolvedModuleId": 1075
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "module": "./src/app/containers/app/Content.js",
+              "moduleName": "./src/app/containers/app/Content.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "resolvedModule": "./src/app/containers/app/Content.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "29:26-45",
               "moduleId": 1075,
               "resolvedModuleId": 1075
             },
@@ -9231,7 +9695,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "39:18-37",
+              "loc": "40:18-37",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9301,7 +9765,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "53:18-37",
+              "loc": "54:18-37",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -9542,6 +10006,314 @@
               "loc": "97:20-39",
               "moduleId": 5333,
               "resolvedModuleId": 5333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "1:0-26",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "11:22-41",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "11:42-56",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "11:77-96",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "13:18-37",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "15:18-37",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "17:18-37",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "19:18-37",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "24:22-41",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "26:38-57",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "28:55-74",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "30:18-37",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "32:19-38",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "34:19-38",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "36:19-38",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "38:19-38",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "40:21-40",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "42:18-37",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "44:18-37",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "46:47-66",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "48:18-37",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "53:19-38",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
             },
             {
               "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
@@ -15870,7 +16642,7 @@
               "active": true,
               "explanation": "(skipped side-effect-free modules)",
               "userRequest": "react-router-dom",
-              "loc": "15:38-44",
+              "loc": "18:38-44",
               "moduleId": 1075,
               "resolvedModuleId": 1075
             },
@@ -15884,21 +16656,7 @@
               "active": true,
               "explanation": "(skipped side-effect-free modules)",
               "userRequest": "react-router-dom",
-              "loc": "15:85-90",
-              "moduleId": 1075,
-              "resolvedModuleId": 1075
-            },
-            {
-              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
-              "module": "./src/app/containers/app/Content.js",
-              "moduleName": "./src/app/containers/app/Content.js",
-              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
-              "resolvedModule": "./src/app/containers/app/Content.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "(skipped side-effect-free modules)",
-              "userRequest": "react-router-dom",
-              "loc": "18:39-44",
+              "loc": "18:85-90",
               "moduleId": 1075,
               "resolvedModuleId": 1075
             },
@@ -15913,6 +16671,34 @@
               "explanation": "(skipped side-effect-free modules)",
               "userRequest": "react-router-dom",
               "loc": "21:39-44",
+              "moduleId": 1075,
+              "resolvedModuleId": 1075
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "module": "./src/app/containers/app/Content.js",
+              "moduleName": "./src/app/containers/app/Content.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "resolvedModule": "./src/app/containers/app/Content.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "(skipped side-effect-free modules)",
+              "userRequest": "react-router-dom",
+              "loc": "24:39-44",
+              "moduleId": 1075,
+              "resolvedModuleId": 1075
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "module": "./src/app/containers/app/Content.js",
+              "moduleName": "./src/app/containers/app/Content.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "resolvedModule": "./src/app/containers/app/Content.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "(skipped side-effect-free modules)",
+              "userRequest": "react-router-dom",
+              "loc": "27:39-44",
               "moduleId": 1075,
               "resolvedModuleId": 1075
             },
@@ -17295,10 +18081,10 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 28554,
+      "size": 29300,
       "sizes": {
-        "javascript": 20153,
-        "runtime": 8401
+        "javascript": 20870,
+        "runtime": 8430
       },
       "names": [
         "main-c9c31c89"
@@ -17309,7 +18095,7 @@
       ],
       "files": [],
       "auxiliaryFiles": [],
-      "hash": "7ff36a5cf24b4cc1e21a",
+      "hash": "2c8ad3f4ab232d6e93a4",
       "childrenByOrder": {},
       "id": 838,
       "siblings": [
@@ -17331,9 +18117,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 20153,
+          "size": 20870,
           "sizes": {
-            "javascript": 20153
+            "javascript": 20870
           },
           "built": true,
           "codeGenerated": true,
@@ -17767,9 +18553,9 @@
           "type": "module",
           "moduleType": "runtime",
           "layer": null,
-          "size": 359,
+          "size": 388,
           "sizes": {
-            "runtime": 359
+            "runtime": 388
           },
           "built": false,
           "codeGenerated": true,
@@ -18266,7 +19052,7 @@
               "active": false,
               "explanation": "",
               "userRequest": "react-router-dom",
-              "loc": "15:38-44",
+              "loc": "18:38-44",
               "moduleId": 1075,
               "resolvedModuleId": 1075
             },
@@ -18280,21 +19066,7 @@
               "active": false,
               "explanation": "",
               "userRequest": "react-router-dom",
-              "loc": "15:85-90",
-              "moduleId": 1075,
-              "resolvedModuleId": 1075
-            },
-            {
-              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
-              "module": "./src/app/containers/app/Content.js",
-              "moduleName": "./src/app/containers/app/Content.js",
-              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
-              "resolvedModule": "./src/app/containers/app/Content.js",
-              "type": "harmony import specifier",
-              "active": false,
-              "explanation": "",
-              "userRequest": "react-router-dom",
-              "loc": "18:39-44",
+              "loc": "18:85-90",
               "moduleId": 1075,
               "resolvedModuleId": 1075
             },
@@ -18309,6 +19081,34 @@
               "explanation": "",
               "userRequest": "react-router-dom",
               "loc": "21:39-44",
+              "moduleId": 1075,
+              "resolvedModuleId": 1075
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "module": "./src/app/containers/app/Content.js",
+              "moduleName": "./src/app/containers/app/Content.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "resolvedModule": "./src/app/containers/app/Content.js",
+              "type": "harmony import specifier",
+              "active": false,
+              "explanation": "",
+              "userRequest": "react-router-dom",
+              "loc": "24:39-44",
+              "moduleId": 1075,
+              "resolvedModuleId": 1075
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "module": "./src/app/containers/app/Content.js",
+              "moduleName": "./src/app/containers/app/Content.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+              "resolvedModule": "./src/app/containers/app/Content.js",
+              "type": "harmony import specifier",
+              "active": false,
+              "explanation": "",
+              "userRequest": "react-router-dom",
+              "loc": "27:39-44",
               "moduleId": 1075,
               "resolvedModuleId": 1075
             },
@@ -18336,7 +19136,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react-router-dom",
-              "loc": "39:38-42",
+              "loc": "37:38-42",
               "moduleId": 5333,
               "resolvedModuleId": 5333
             },
@@ -18350,9 +19150,37 @@
               "active": true,
               "explanation": "",
               "userRequest": "react-router-dom",
-              "loc": "53:38-42",
+              "loc": "51:55-59",
               "moduleId": 5333,
               "resolvedModuleId": 5333
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony side effect evaluation",
+              "active": false,
+              "explanation": "",
+              "userRequest": "react-router-dom",
+              "loc": "7:0-40",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
+            },
+            {
+              "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "module": "./src/features/auth/Confirm.js",
+              "moduleName": "./src/features/auth/Confirm.js",
+              "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+              "resolvedModule": "./src/features/auth/Confirm.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react-router-dom",
+              "loc": "13:38-42",
+              "moduleId": 7512,
+              "resolvedModuleId": 7512
             },
             {
               "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js|e7d6f347960a105de3982808d5ea6038",
@@ -18490,9 +19318,9 @@
       "initial": true,
       "entry": false,
       "recorded": false,
-      "size": 68428.44,
+      "size": 68773.44,
       "sizes": {
-        "javascript": 7852.4400000000005,
+        "javascript": 8197.44,
         "asset": 60576
       },
       "names": [
@@ -18503,13 +19331,13 @@
         "main"
       ],
       "files": [
-        "main-bde52cb3.28a7ed140f3be0069cdf.js"
+        "main-bde52cb3.a4fd2d23357904377b98.js"
       ],
       "auxiliaryFiles": [
         "3ee00883a9701befc8be.TTF",
         "assets/icons/svg/loading.gif"
       ],
-      "hash": "70bc093cbd4a491cd1ba",
+      "hash": "d8c36a65161f0713ae02",
       "childrenByOrder": {},
       "id": 997,
       "siblings": [
@@ -18604,9 +19432,9 @@
           "type": "module",
           "moduleType": "javascript/esm",
           "layer": null,
-          "size": 6707,
+          "size": 7052,
           "sizes": {
-            "javascript": 6707
+            "javascript": 7052
           },
           "built": true,
           "codeGenerated": true,
@@ -19207,9 +20035,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 679,
+              "size": 821,
               "sizes": {
-                "javascript": 679
+                "javascript": 821
               },
               "built": true,
               "codeGenerated": false,
@@ -19294,7 +20122,7 @@
                 "default"
               ],
               "optimizationBailout": [
-                "Statement (VariableDeclaration) with side effects in source code at 1:0-22:2"
+                "Statement (VariableDeclaration) with side effects in source code at 1:0-26:2"
               ],
               "depth": 4
             },
@@ -19302,9 +20130,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 1044,
+              "size": 1247,
               "sizes": {
-                "javascript": 1044
+                "javascript": 1247
               },
               "built": true,
               "codeGenerated": false,
@@ -19389,7 +20217,7 @@
                 "default"
               ],
               "optimizationBailout": [
-                "Statement (VariableDeclaration) with side effects in source code at 1:0-23:2"
+                "Statement (VariableDeclaration) with side effects in source code at 1:0-27:2"
               ],
               "depth": 4
             },
@@ -19797,9 +20625,9 @@
       "type": "module",
       "moduleType": "javascript/esm",
       "layer": null,
-      "size": 6707,
+      "size": 7052,
       "sizes": {
-        "javascript": 6707
+        "javascript": 7052
       },
       "built": true,
       "codeGenerated": true,
@@ -20392,9 +21220,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 679,
+          "size": 821,
           "sizes": {
-            "javascript": 679
+            "javascript": 821
           },
           "built": true,
           "codeGenerated": false,
@@ -20478,7 +21306,7 @@
             "default"
           ],
           "optimizationBailout": [
-            "Statement (VariableDeclaration) with side effects in source code at 1:0-22:2"
+            "Statement (VariableDeclaration) with side effects in source code at 1:0-26:2"
           ],
           "depth": 4
         },
@@ -20486,9 +21314,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 1044,
+          "size": 1247,
           "sizes": {
-            "javascript": 1044
+            "javascript": 1247
           },
           "built": true,
           "codeGenerated": false,
@@ -20572,7 +21400,7 @@
             "default"
           ],
           "optimizationBailout": [
-            "Statement (VariableDeclaration) with side effects in source code at 1:0-23:2"
+            "Statement (VariableDeclaration) with side effects in source code at 1:0-27:2"
           ],
           "depth": 4
         },
@@ -21019,7 +21847,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "13:22-41",
+          "loc": "12:31-35",
           "moduleId": 1075,
           "resolvedModuleId": 1075
         },
@@ -21033,7 +21861,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "15:18-37",
+          "loc": "16:22-41",
           "moduleId": 1075,
           "resolvedModuleId": 1075
         },
@@ -21047,7 +21875,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "15:65-84",
+          "loc": "18:18-37",
           "moduleId": 1075,
           "resolvedModuleId": 1075
         },
@@ -21061,21 +21889,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "17:26-45",
-          "moduleId": 1075,
-          "resolvedModuleId": 1075
-        },
-        {
-          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
-          "module": "./src/app/containers/app/Content.js",
-          "moduleName": "./src/app/containers/app/Content.js",
-          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
-          "resolvedModule": "./src/app/containers/app/Content.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "react",
-          "loc": "18:19-38",
+          "loc": "18:65-84",
           "moduleId": 1075,
           "resolvedModuleId": 1075
         },
@@ -21118,6 +21932,62 @@
           "explanation": "",
           "userRequest": "react",
           "loc": "23:26-45",
+          "moduleId": 1075,
+          "resolvedModuleId": 1075
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "module": "./src/app/containers/app/Content.js",
+          "moduleName": "./src/app/containers/app/Content.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "resolvedModule": "./src/app/containers/app/Content.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "24:19-38",
+          "moduleId": 1075,
+          "resolvedModuleId": 1075
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "module": "./src/app/containers/app/Content.js",
+          "moduleName": "./src/app/containers/app/Content.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "resolvedModule": "./src/app/containers/app/Content.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "26:26-45",
+          "moduleId": 1075,
+          "resolvedModuleId": 1075
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "module": "./src/app/containers/app/Content.js",
+          "moduleName": "./src/app/containers/app/Content.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "resolvedModule": "./src/app/containers/app/Content.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "27:19-38",
+          "moduleId": 1075,
+          "resolvedModuleId": 1075
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "module": "./src/app/containers/app/Content.js",
+          "moduleName": "./src/app/containers/app/Content.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "resolvedModule": "./src/app/containers/app/Content.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "29:26-45",
           "moduleId": 1075,
           "resolvedModuleId": 1075
         },
@@ -21411,7 +22281,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "39:18-37",
+          "loc": "40:18-37",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -21481,7 +22351,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "53:18-37",
+          "loc": "54:18-37",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -21722,6 +22592,314 @@
           "loc": "97:20-39",
           "moduleId": 5333,
           "resolvedModuleId": 5333
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "1:0-26",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "11:22-41",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "11:42-56",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "11:77-96",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "13:18-37",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "15:18-37",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "17:18-37",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "19:18-37",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "24:22-41",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "26:38-57",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "28:55-74",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "30:18-37",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "32:19-38",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "34:19-38",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "36:19-38",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "38:19-38",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "40:21-40",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "42:18-37",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "44:18-37",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "46:47-66",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "48:18-37",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "53:19-38",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
         },
         {
           "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
@@ -26355,7 +27533,7 @@
           "active": false,
           "explanation": "",
           "userRequest": "react-router-dom",
-          "loc": "15:38-44",
+          "loc": "18:38-44",
           "moduleId": 1075,
           "resolvedModuleId": 1075
         },
@@ -26369,21 +27547,7 @@
           "active": false,
           "explanation": "",
           "userRequest": "react-router-dom",
-          "loc": "15:85-90",
-          "moduleId": 1075,
-          "resolvedModuleId": 1075
-        },
-        {
-          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
-          "module": "./src/app/containers/app/Content.js",
-          "moduleName": "./src/app/containers/app/Content.js",
-          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
-          "resolvedModule": "./src/app/containers/app/Content.js",
-          "type": "harmony import specifier",
-          "active": false,
-          "explanation": "",
-          "userRequest": "react-router-dom",
-          "loc": "18:39-44",
+          "loc": "18:85-90",
           "moduleId": 1075,
           "resolvedModuleId": 1075
         },
@@ -26398,6 +27562,34 @@
           "explanation": "",
           "userRequest": "react-router-dom",
           "loc": "21:39-44",
+          "moduleId": 1075,
+          "resolvedModuleId": 1075
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "module": "./src/app/containers/app/Content.js",
+          "moduleName": "./src/app/containers/app/Content.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "resolvedModule": "./src/app/containers/app/Content.js",
+          "type": "harmony import specifier",
+          "active": false,
+          "explanation": "",
+          "userRequest": "react-router-dom",
+          "loc": "24:39-44",
+          "moduleId": 1075,
+          "resolvedModuleId": 1075
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "module": "./src/app/containers/app/Content.js",
+          "moduleName": "./src/app/containers/app/Content.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "resolvedModule": "./src/app/containers/app/Content.js",
+          "type": "harmony import specifier",
+          "active": false,
+          "explanation": "",
+          "userRequest": "react-router-dom",
+          "loc": "27:39-44",
           "moduleId": 1075,
           "resolvedModuleId": 1075
         },
@@ -26425,7 +27617,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react-router-dom",
-          "loc": "39:38-42",
+          "loc": "37:38-42",
           "moduleId": 5333,
           "resolvedModuleId": 5333
         },
@@ -26439,9 +27631,37 @@
           "active": true,
           "explanation": "",
           "userRequest": "react-router-dom",
-          "loc": "53:38-42",
+          "loc": "51:55-59",
           "moduleId": 5333,
           "resolvedModuleId": 5333
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony side effect evaluation",
+          "active": false,
+          "explanation": "",
+          "userRequest": "react-router-dom",
+          "loc": "7:0-40",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react-router-dom",
+          "loc": "13:38-42",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
         },
         {
           "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js|e7d6f347960a105de3982808d5ea6038",
@@ -26977,7 +28197,7 @@
           "active": true,
           "explanation": "(skipped side-effect-free modules)",
           "userRequest": "react-router-dom",
-          "loc": "15:38-44",
+          "loc": "18:38-44",
           "moduleId": 1075,
           "resolvedModuleId": 1075
         },
@@ -26991,21 +28211,7 @@
           "active": true,
           "explanation": "(skipped side-effect-free modules)",
           "userRequest": "react-router-dom",
-          "loc": "15:85-90",
-          "moduleId": 1075,
-          "resolvedModuleId": 1075
-        },
-        {
-          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
-          "module": "./src/app/containers/app/Content.js",
-          "moduleName": "./src/app/containers/app/Content.js",
-          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
-          "resolvedModule": "./src/app/containers/app/Content.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "(skipped side-effect-free modules)",
-          "userRequest": "react-router-dom",
-          "loc": "18:39-44",
+          "loc": "18:85-90",
           "moduleId": 1075,
           "resolvedModuleId": 1075
         },
@@ -27020,6 +28226,34 @@
           "explanation": "(skipped side-effect-free modules)",
           "userRequest": "react-router-dom",
           "loc": "21:39-44",
+          "moduleId": 1075,
+          "resolvedModuleId": 1075
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "module": "./src/app/containers/app/Content.js",
+          "moduleName": "./src/app/containers/app/Content.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "resolvedModule": "./src/app/containers/app/Content.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "(skipped side-effect-free modules)",
+          "userRequest": "react-router-dom",
+          "loc": "24:39-44",
+          "moduleId": 1075,
+          "resolvedModuleId": 1075
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "module": "./src/app/containers/app/Content.js",
+          "moduleName": "./src/app/containers/app/Content.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "resolvedModule": "./src/app/containers/app/Content.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "(skipped side-effect-free modules)",
+          "userRequest": "react-router-dom",
+          "loc": "27:39-44",
           "moduleId": 1075,
           "resolvedModuleId": 1075
         },
@@ -30892,9 +32126,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 20153,
+      "size": 20870,
       "sizes": {
-        "javascript": 20153
+        "javascript": 20870
       },
       "built": true,
       "codeGenerated": true,
@@ -32615,6 +33849,34 @@
           "resolvedModuleId": 5333
         },
         {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react-i18next",
+          "loc": "2:0-47",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react-i18next",
+          "loc": "9:24-38",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
           "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
           "module": "./src/features/auth/Login.js",
           "moduleName": "./src/features/auth/Login.js",
@@ -33305,9 +34567,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 679,
+      "size": 821,
       "sizes": {
-        "javascript": 679
+        "javascript": 821
       },
       "built": true,
       "codeGenerated": false,
@@ -33391,7 +34653,7 @@
         "default"
       ],
       "optimizationBailout": [
-        "Statement (VariableDeclaration) with side effects in source code at 1:0-22:2"
+        "Statement (VariableDeclaration) with side effects in source code at 1:0-26:2"
       ],
       "depth": 4
     },
@@ -33399,9 +34661,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 1044,
+      "size": 1247,
       "sizes": {
-        "javascript": 1044
+        "javascript": 1247
       },
       "built": true,
       "codeGenerated": false,
@@ -33485,7 +34747,7 @@
         "default"
       ],
       "optimizationBailout": [
-        "Statement (VariableDeclaration) with side effects in source code at 1:0-23:2"
+        "Statement (VariableDeclaration) with side effects in source code at 1:0-27:2"
       ],
       "depth": 4
     },
@@ -33589,9 +34851,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 1025,
+      "size": 1268,
       "sizes": {
-        "javascript": 1025
+        "javascript": 1268
       },
       "built": true,
       "codeGenerated": true,
@@ -35947,9 +37209,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 4292,
+      "size": 4219,
       "sizes": {
-        "javascript": 4292
+        "javascript": 4219
       },
       "built": true,
       "codeGenerated": true,
@@ -36130,9 +37392,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 4439,
+      "size": 4463,
       "sizes": {
-        "javascript": 4439
+        "javascript": 4463
       },
       "built": true,
       "codeGenerated": true,
@@ -36212,6 +37474,96 @@
         "ModuleConcatenation bailout: Cannot concat with ./assets/icons/svg/Call.svg: Module is not an ECMAScript module",
         "ModuleConcatenation bailout: Cannot concat with ./assets/icons/svg/CloseSquare.svg: Module is not an ECMAScript module",
         "ModuleConcatenation bailout: Cannot concat with ./assets/icons/svg/Message.svg: Module is not an ECMAScript module",
+        "ModuleConcatenation bailout: Cannot concat with ./node_modules/react-i18next/dist/es/index.js: Module ./node_modules/react-i18next/dist/es/index.js is not in the same chunk(s) (expected in chunk(s) unnamed chunk(s), module is in chunk(s) )"
+      ],
+      "depth": 5
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 2619,
+      "sizes": {
+        "javascript": 2619
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+      "name": "./src/features/auth/Confirm.js",
+      "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+      "index": 70,
+      "preOrderIndex": 70,
+      "index2": 72,
+      "postOrderIndex": 72,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+      "issuerName": "./src/app/containers/app/Content.js",
+      "issuerPath": [
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/App.js",
+          "name": "./src/app/containers/app/App.js",
+          "id": null
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/middleware/Middleware.js",
+          "name": "./src/app/middleware/Middleware.js",
+          "id": 9868
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Landing.js",
+          "name": "./src/app/containers/app/Landing.js",
+          "id": 4741
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "name": "./src/app/containers/app/Content.js",
+          "id": 1075
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 7512,
+      "issuerId": 1075,
+      "chunks": [
+        512
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "module": "./src/app/containers/app/Content.js",
+          "moduleName": "./src/app/containers/app/Content.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "resolvedModule": "./src/app/containers/app/Content.js",
+          "type": "import()",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../../features/auth/Confirm.js",
+          "loc": "13:9-52",
+          "moduleId": 1075,
+          "resolvedModuleId": 1075
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Dependency (harmony side effect evaluation) with side effects at 1:0-26",
+        "ModuleConcatenation bailout: Cannot concat with ./node_modules/react-router-dom/dist/index.js: Module ./node_modules/react-router-dom/dist/index.js is not in the same chunk(s) (expected in chunk(s) unnamed chunk(s), module is in chunk(s) unnamed chunk(s))",
+        "ModuleConcatenation bailout: Cannot concat with ./node_modules/react/index.js: Module is not an ECMAScript module",
+        "ModuleConcatenation bailout: Cannot concat with ./assets/icons/svg/ar.svg: Module is not an ECMAScript module",
+        "ModuleConcatenation bailout: Cannot concat with ./assets/icons/svg/tp.svg: Module is not an ECMAScript module",
         "ModuleConcatenation bailout: Cannot concat with ./node_modules/react-i18next/dist/es/index.js: Module ./node_modules/react-i18next/dist/es/index.js is not in the same chunk(s) (expected in chunk(s) unnamed chunk(s), module is in chunk(s) )"
       ],
       "depth": 5
@@ -36340,8 +37692,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/TransWithoutContext.js",
-      "issuerName": "./node_modules/react-i18next/dist/es/TransWithoutContext.js",
+      "issuer": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/useTranslation.js",
+      "issuerName": "./node_modules/react-i18next/dist/es/useTranslation.js",
       "issuerPath": [
         {
           "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
@@ -36369,16 +37721,16 @@
           "id": null
         },
         {
-          "identifier": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/TransWithoutContext.js",
-          "name": "./node_modules/react-i18next/dist/es/TransWithoutContext.js",
-          "id": null
+          "identifier": "javascript/esm|/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/react-i18next/dist/es/useTranslation.js",
+          "name": "./node_modules/react-i18next/dist/es/useTranslation.js",
+          "id": 8437
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 9454,
-      "issuerId": null,
+      "issuerId": 8437,
       "chunks": [
         679
       ],
@@ -38245,6 +39597,242 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
+      "size": 553,
+      "sizes": {
+        "javascript": 553
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/ar.svg",
+      "name": "./assets/icons/svg/ar.svg",
+      "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/ar.svg",
+      "index": 71,
+      "preOrderIndex": 71,
+      "index2": 70,
+      "postOrderIndex": 70,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+      "issuerName": "./src/features/auth/Confirm.js",
+      "issuerPath": [
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/App.js",
+          "name": "./src/app/containers/app/App.js",
+          "id": null
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/middleware/Middleware.js",
+          "name": "./src/app/middleware/Middleware.js",
+          "id": 9868
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Landing.js",
+          "name": "./src/app/containers/app/Landing.js",
+          "id": 4741
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "name": "./src/app/containers/app/Content.js",
+          "id": 1075
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "name": "./src/features/auth/Confirm.js",
+          "id": 7512
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 8071,
+      "issuerId": 7512,
+      "chunks": [
+        512
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../../assets/icons/svg/ar.svg",
+          "loc": "5:0-58",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../../assets/icons/svg/ar.svg",
+          "loc": "21:9-19",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/ar.svg",
+          "module": "./assets/icons/svg/ar.svg",
+          "moduleName": "./assets/icons/svg/ar.svg",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/ar.svg",
+          "resolvedModule": "./assets/icons/svg/ar.svg",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "1:0-14",
+          "moduleId": 8071,
+          "resolvedModuleId": 8071
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 1:0-14",
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-553",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 6
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 1947,
+      "sizes": {
+        "javascript": 1947
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/tp.svg",
+      "name": "./assets/icons/svg/tp.svg",
+      "nameForCondition": "/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/tp.svg",
+      "index": 72,
+      "preOrderIndex": 72,
+      "index2": 71,
+      "postOrderIndex": 71,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+      "issuerName": "./src/features/auth/Confirm.js",
+      "issuerPath": [
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/App.js",
+          "name": "./src/app/containers/app/App.js",
+          "id": null
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/middleware/Middleware.js",
+          "name": "./src/app/middleware/Middleware.js",
+          "id": 9868
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Landing.js",
+          "name": "./src/app/containers/app/Landing.js",
+          "id": 4741
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/app/containers/app/Content.js",
+          "name": "./src/app/containers/app/Content.js",
+          "id": 1075
+        },
+        {
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "name": "./src/features/auth/Confirm.js",
+          "id": 7512
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 2742,
+      "issuerId": 7512,
+      "chunks": [
+        512
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../../assets/icons/svg/tp.svg",
+          "loc": "6:0-60",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "module": "./src/features/auth/Confirm.js",
+          "moduleName": "./src/features/auth/Confirm.js",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Confirm.js",
+          "resolvedModule": "./src/features/auth/Confirm.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../../assets/icons/svg/tp.svg",
+          "loc": "50:9-21",
+          "moduleId": 7512,
+          "resolvedModuleId": 7512
+        },
+        {
+          "moduleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/tp.svg",
+          "module": "./assets/icons/svg/tp.svg",
+          "moduleName": "./assets/icons/svg/tp.svg",
+          "resolvedModuleIdentifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/svg-url-loader/index.js??ruleSet[1].rules[4].use[0]!/home/mohammad/Desktop/Projects/aimoonx-dev/assets/icons/svg/tp.svg",
+          "resolvedModule": "./assets/icons/svg/tp.svg",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "1:0-14",
+          "moduleId": 2742,
+          "resolvedModuleId": 2742
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 1:0-14",
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-1947",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 6
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
       "size": 338,
       "sizes": {
         "javascript": 338
@@ -38571,9 +40159,9 @@
       "type": "module",
       "moduleType": "runtime",
       "layer": null,
-      "size": 359,
+      "size": 388,
       "sizes": {
-        "runtime": 359
+        "runtime": 388
       },
       "built": false,
       "codeGenerated": true,
@@ -38845,12 +40433,12 @@
           "size": 9000
         },
         {
-          "name": "main-bde52cb3.28a7ed140f3be0069cdf.js",
-          "size": 4662
+          "name": "main-bde52cb3.a4fd2d23357904377b98.js",
+          "size": 4975
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 33218,
+      "assetsSize": 33531,
       "auxiliaryAssets": [
         {
           "name": "3ee00883a9701befc8be.TTF",
@@ -38900,12 +40488,12 @@
           "size": 9000
         },
         {
-          "name": "main-bde52cb3.28a7ed140f3be0069cdf.js",
-          "size": 4662
+          "name": "main-bde52cb3.a4fd2d23357904377b98.js",
+          "size": 4975
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 33218,
+      "assetsSize": 33531,
       "auxiliaryAssets": [
         {
           "name": "3ee00883a9701befc8be.TTF",
@@ -38930,10 +40518,10 @@
   "children": [
     {
       "name": "HtmlWebpackCompiler",
-      "hash": "079ca65e371938d336b6",
+      "hash": "6d625dc07737facbb636",
       "version": "5.96.1",
-      "time": 274,
-      "builtAt": 1731493834977,
+      "time": 275,
+      "builtAt": 1731500474167,
       "publicPath": "",
       "outputPath": "/home/mohammad/Desktop/Projects/aimoonx-dev/dist",
       "assetsByChunkName": {},
@@ -38987,7 +40575,7 @@
           "auxiliaryFiles": [
             "85844e0ca7f47950c7a0.json"
           ],
-          "hash": "bae113a6aef0c9af3948",
+          "hash": "fd08f58f695f045fe1e6",
           "childrenByOrder": {},
           "id": 387,
           "siblings": [],
