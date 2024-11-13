@@ -2,8 +2,9 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 
 // svg
-import message from "../../../assets/icons/svg/CloseSquare.svg";
-import closeSquare from "../../../assets/icons/svg/Message.svg";
+import closeSquare from "../../../assets/icons/svg/CloseSquare.svg";
+import message from "../../../assets/icons/svg/Message.svg";
+import call from "../../../assets/icons/svg/Call.svg";
 
 const SignUp = () => {
   const { t } = useTranslation();
@@ -16,49 +17,95 @@ const SignUp = () => {
         <div className="flex text-[#797882] mt-3">
           {t("choose_email_mobile")}
         </div>
-        <div className="flex mt-6">
+
+        <div className="relative mt-6">
           <div className="w-full h-12 px-1.5 bg-[#dde9f6] rounded-2xl justify-between items-center gap-1.5 inline-flex">
-            <div className="basis-1/2 bg-white py-1.5 rounded-xl text-center text-[#1f1e2e] text-sm">
-              {t("email")}
+            <input
+              type="radio"
+              id="tab1"
+              name="tab"
+              className="hidden peer/tab1 w-full"
+              defaultChecked
+            />
+            <input
+              type="radio"
+              id="tab2"
+              name="tab"
+              className="hidden peer/tab2 w-full"
+            />
+            <div className="basis-1/2 peer-checked/tab1:bg-white hover:bg-slate-50 py-1.5 rounded-xl text-center text-[#1f1e2e] text-sm">
+              <label
+                htmlFor="tab1"
+                className="tab-button cursor-pointer px-[calc(10.2vw)]"
+              >
+                {t("email")}
+              </label>
             </div>
-            <div className="basis-1/2 text-center text-[#797882] text-sm">
-               {t("phone_number")}
+            <div className="basis-1/2 peer-checked/tab2:bg-white hover:bg-slate-50 py-1.5 rounded-xl text-center text-[#1f1e2e] text-sm">
+              <label
+                htmlFor="tab2"
+                className="tab-button cursor-pointer px-[calc(10.2vw)]"
+              >
+                {t("phone_number")}
+              </label>
             </div>
-          </div>
-        </div>
-        <div className="flex flex-col mt-8">
-          <div className="opacity-60 text-[#0c0c0c] text-xs mt-3 mb-0.5 mx-6">
-            {t("email")}
-          </div>
 
-          <div className="w-full px-4 py-2.5 bg-[#edf4fa] rounded-2xl border border-[#dde9f6] justify-between items-center inline-flex">
-            <div className="flex justify-start items-center gap-2">
-              <div className="flex">
-                <img
-                  alt="sign-up"
-                  src={closeSquare}
-                  loading="lazy"
-                  className="w-full h-full"
-                ></img>
+            <div className="tab1-content mt-8 w-full absolute right-0 top-10 hidden peer-checked/tab1:block">
+              <div className="w-full px-4 py-2.5 bg-[#edf4fa] rounded-2xl border border-[#dde9f6] justify-between items-center inline-flex">
+                <div className="flex justify-start items-center gap-2">
+                  <div className="flex">
+                    <img
+                      alt="sign-up"
+                      src={message}
+                      loading="lazy"
+                      className="w-full h-full"
+                    ></img>
+                  </div>
+                  <div className="text-[#727272] mt-1">aimoonx@gmail.com</div>
+                </div>
+                <div className="flex">
+                  <img
+                    alt="sign-up"
+                    src={closeSquare}
+                    loading="lazy"
+                    className="w-full h-full"
+                  ></img>
+                </div>
               </div>
-              <div className="text-[#727272] mt-1">aimoonx@gmail.com</div>
-            </div>
-            <div className="flex">
-              <img
-                alt="sign-up"
-                src={message}
-                loading="lazy"
-                className="w-full h-full"
-              ></img>
-            </div>
-          </div>
 
-          <div className="flex mt-3 mx-3">
-            <div className="text-[#e54343] text-xs font-bold font-['Yekan Bakh'] leading-none">
-              {t("error_invalid_email")}
+              <div className="flex mt-3 mx-3">
+                <div className="text-[#e54343] text-xs font-bold font-['Yekan Bakh'] leading-none">
+                  {t("error_invalid_email")}
+                </div>
+              </div>
+            </div>
+
+            <div className="tab2-content mt-8 absolute w-full top-10 right-0 hidden peer-checked/tab2:block">
+              <div className="w-full px-4 py-2.5 bg-[#edf4fa] rounded-2xl border border-[#dde9f6] justify-between items-center inline-flex">
+                <div className="flex justify-start items-center gap-2">
+                  <div className="flex">
+                    <img
+                      alt="sign-up"
+                      src={call}
+                      loading="lazy"
+                      className="w-full h-full"
+                    ></img>
+                  </div>
+                  <div className="text-[#727272] mt-1">09150873107</div>
+                </div>
+                <div className="flex">
+                  <img
+                    alt="sign-up"
+                    src={closeSquare}
+                    loading="lazy"
+                    className="w-full h-full"
+                  ></img>
+                </div>
+              </div>
             </div>
           </div>
         </div>
+
         <div className="flex mt-[18rem]">
           <div className="w-full h-14 px-4 py-2 bg-[#e57c43] rounded-2xl justify-center items-center gap-2 inline-flex">
             <div className="text-white">{t("sign_up")}</div>
