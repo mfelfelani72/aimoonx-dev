@@ -17,12 +17,12 @@ const SignUp = () => {
           {t("choose_email_mobile")}
         </div>
         <div className="flex mt-6">
-          <div class="w-full h-12 px-1.5 bg-[#dde9f6] rounded-2xl justify-between items-center gap-1.5 inline-flex">
-            <div class="basis-1/2 bg-white py-1.5 rounded-xl text-center text-[#1f1e2e] text-sm">
-              نشانی اینترنتی
+          <div className="w-full h-12 px-1.5 bg-[#dde9f6] rounded-2xl justify-between items-center gap-1.5 inline-flex">
+            <div className="basis-1/2 bg-white py-1.5 rounded-xl text-center text-[#1f1e2e] text-sm">
+              {t("email")}
             </div>
-            <div class="basis-1/2 text-center text-[#797882] text-sm">
-              شماره موبایل
+            <div className="basis-1/2 text-center text-[#797882] text-sm">
+               {t("phone_number")}
             </div>
           </div>
         </div>

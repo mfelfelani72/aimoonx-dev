@@ -16,6 +16,7 @@ const en = {
   choose_email_mobile : "Please choose mobile or email",
   email : "Email",
   error_invalid_email : "Please enter valid a Email",
+  phone_number : "Phone Number",
 
 
   // settings

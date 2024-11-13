@@ -15,6 +15,7 @@ const fa = {
   choose_email_mobile: "لطفا شماره موبایل یا نشانی اینترنتی خود را وارد نمایید",
   email : "نشانی اینترنتی",
   error_invalid_email : "لطفا نشانی اینترنتی معتبر وارد کنید",
+  phone_number : "شماره موبایل",
 
 
   // settings

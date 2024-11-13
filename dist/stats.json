@@ -1,8 +1,8 @@
 {
-  "hash": "2a4b7d7238e8be976933",
+  "hash": "526c8049b0d39e70ac48",
   "version": "5.96.1",
-  "time": 5523,
-  "builtAt": 1731487390984,
+  "time": 5429,
+  "builtAt": 1731487779327,
   "publicPath": "/",
   "outputPath": "/home/mohammad/Desktop/Projects/aimoonx-dev/dist",
   "assetsByChunkName": {},
@@ -558,15 +558,15 @@
     },
     {
       "type": "asset",
-      "name": "main.6dd63a1c46ce2cf4214c.js.gz",
-      "size": 7731,
+      "name": "main.9e5ffb71f7ccdc435e35.js.gz",
+      "size": 7752,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "compressed": true,
         "immutable": true,
-        "size": 7731
+        "size": 7752
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -602,9 +602,9 @@
       "type": "asset",
       "name": "333.aecd60fa8812bc96d387.js.gz",
       "size": 7379,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "compressed": true,
         "immutable": true,
@@ -685,9 +685,9 @@
       "type": "asset",
       "name": "737.bc162f764e5878d590a3.js",
       "size": 3921,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "immutable": true,
         "contenthash": "bc162f764e5878d590a3",
@@ -711,7 +711,7 @@
       "name": "service-worker.js",
       "size": 3632,
       "emitted": true,
-      "comparedForEmit": false,
+      "comparedForEmit": true,
       "cached": false,
       "info": {
         "minimized": true,
@@ -728,17 +728,17 @@
     },
     {
       "type": "asset",
-      "name": "614.7dd1cb38a26a66db3c89.js",
-      "size": 3490,
+      "name": "614.9c48967951468831396c.js",
+      "size": 3475,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "contenthash": "7dd1cb38a26a66db3c89",
+        "contenthash": "9c48967951468831396c",
         "javascriptModule": false,
         "minimized": true,
-        "size": 3490
+        "size": 3475
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -907,9 +907,9 @@
       "type": "asset",
       "name": "75.4cce51a69f4c597f656a.js",
       "size": 677,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "immutable": true,
         "contenthash": "4cce51a69f4c597f656a",
@@ -5925,9 +5925,9 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "size": 4363,
+      "size": 4246,
       "sizes": {
-        "javascript": 4363
+        "javascript": 4246
       },
       "names": [],
       "idHints": [],
@@ -5935,10 +5935,10 @@
         "main"
       ],
       "files": [
-        "614.7dd1cb38a26a66db3c89.js"
+        "614.9c48967951468831396c.js"
       ],
       "auxiliaryFiles": [],
-      "hash": "dbf30f759d228498bbb3",
+      "hash": "c54168a5306df7aee4b2",
       "childrenByOrder": {},
       "id": 614,
       "siblings": [],
@@ -5970,8 +5970,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
-          "issuerName": "./src/features/auth/SignUp.js",
+          "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
+          "issuerName": "./src/features/auth/Login.js",
           "issuerPath": [
             {
               "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
@@ -5999,16 +5999,16 @@
               "id": 1075
             },
             {
-              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
-              "name": "./src/features/auth/SignUp.js",
-              "id": 7614
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
+              "name": "./src/features/auth/Login.js",
+              "id": 2737
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 4595,
-          "issuerId": 7614,
+          "issuerId": 2737,
           "chunks": [
             614,
             737
@@ -6232,9 +6232,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 2950,
+          "size": 2833,
           "sizes": {
-            "javascript": 2950
+            "javascript": 2833
           },
           "built": true,
           "codeGenerated": true,
@@ -9901,7 +9901,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "22:102-121",
+              "loc": "22:31-50",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -9915,7 +9915,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "24:92-111",
+              "loc": "24:40-59",
               "moduleId": 7614,
               "resolvedModuleId": 7614
             },
@@ -14958,8 +14958,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
-          "issuerName": "./src/features/auth/SignUp.js",
+          "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
+          "issuerName": "./src/features/auth/Login.js",
           "issuerPath": [
             {
               "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
@@ -14987,16 +14987,16 @@
               "id": 1075
             },
             {
-              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
-              "name": "./src/features/auth/SignUp.js",
-              "id": 7614
+              "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
+              "name": "./src/features/auth/Login.js",
+              "id": 2737
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 4595,
-          "issuerId": 7614,
+          "issuerId": 2737,
           "chunks": [
             614,
             737
@@ -16956,9 +16956,9 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 96300.44,
+      "size": 96375.44,
       "sizes": {
-        "javascript": 27323.44,
+        "javascript": 27398.44,
         "asset": 60576,
         "runtime": 8401
       },
@@ -16974,7 +16974,7 @@
         "3ee00883a9701befc8be.TTF",
         "assets/icons/svg/loading.gif"
       ],
-      "hash": "f2fe19e1b33532993888",
+      "hash": "0463bbb3eff2f853210f",
       "childrenByOrder": {},
       "id": 792,
       "siblings": [
@@ -17324,9 +17324,9 @@
           "type": "module",
           "moduleType": "javascript/esm",
           "layer": null,
-          "size": 6632,
+          "size": 6707,
           "sizes": {
-            "javascript": 6632
+            "javascript": 6707
           },
           "built": true,
           "codeGenerated": true,
@@ -17927,9 +17927,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 647,
+              "size": 679,
               "sizes": {
-                "javascript": 647
+                "javascript": 679
               },
               "built": true,
               "codeGenerated": false,
@@ -18014,7 +18014,7 @@
                 "default"
               ],
               "optimizationBailout": [
-                "Statement (VariableDeclaration) with side effects in source code at 1:0-21:2"
+                "Statement (VariableDeclaration) with side effects in source code at 1:0-22:2"
               ],
               "depth": 4
             },
@@ -18022,9 +18022,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 1001,
+              "size": 1044,
               "sizes": {
-                "javascript": 1001
+                "javascript": 1044
               },
               "built": true,
               "codeGenerated": false,
@@ -18109,7 +18109,7 @@
                 "default"
               ],
               "optimizationBailout": [
-                "Statement (VariableDeclaration) with side effects in source code at 1:0-22:2"
+                "Statement (VariableDeclaration) with side effects in source code at 1:0-23:2"
               ],
               "depth": 4
             },
@@ -19406,9 +19406,9 @@
       "type": "module",
       "moduleType": "javascript/esm",
       "layer": null,
-      "size": 6632,
+      "size": 6707,
       "sizes": {
-        "javascript": 6632
+        "javascript": 6707
       },
       "built": true,
       "codeGenerated": true,
@@ -20001,9 +20001,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 647,
+          "size": 679,
           "sizes": {
-            "javascript": 647
+            "javascript": 679
           },
           "built": true,
           "codeGenerated": false,
@@ -20087,7 +20087,7 @@
             "default"
           ],
           "optimizationBailout": [
-            "Statement (VariableDeclaration) with side effects in source code at 1:0-21:2"
+            "Statement (VariableDeclaration) with side effects in source code at 1:0-22:2"
           ],
           "depth": 4
         },
@@ -20095,9 +20095,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 1001,
+          "size": 1044,
           "sizes": {
-            "javascript": 1001
+            "javascript": 1044
           },
           "built": true,
           "codeGenerated": false,
@@ -20181,7 +20181,7 @@
             "default"
           ],
           "optimizationBailout": [
-            "Statement (VariableDeclaration) with side effects in source code at 1:0-22:2"
+            "Statement (VariableDeclaration) with side effects in source code at 1:0-23:2"
           ],
           "depth": 4
         },
@@ -21860,7 +21860,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "22:102-121",
+          "loc": "22:31-50",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -21874,7 +21874,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "24:92-111",
+          "loc": "24:40-59",
           "moduleId": 7614,
           "resolvedModuleId": 7614
         },
@@ -32760,9 +32760,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 647,
+      "size": 679,
       "sizes": {
-        "javascript": 647
+        "javascript": 679
       },
       "built": true,
       "codeGenerated": false,
@@ -32846,7 +32846,7 @@
         "default"
       ],
       "optimizationBailout": [
-        "Statement (VariableDeclaration) with side effects in source code at 1:0-21:2"
+        "Statement (VariableDeclaration) with side effects in source code at 1:0-22:2"
       ],
       "depth": 4
     },
@@ -32854,9 +32854,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 1001,
+      "size": 1044,
       "sizes": {
-        "javascript": 1001
+        "javascript": 1044
       },
       "built": true,
       "codeGenerated": false,
@@ -32940,7 +32940,7 @@
         "default"
       ],
       "optimizationBailout": [
-        "Statement (VariableDeclaration) with side effects in source code at 1:0-22:2"
+        "Statement (VariableDeclaration) with side effects in source code at 1:0-23:2"
       ],
       "depth": 4
     },
@@ -35585,9 +35585,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 2950,
+      "size": 2833,
       "sizes": {
-        "javascript": 2950
+        "javascript": 2833
       },
       "built": true,
       "codeGenerated": true,
@@ -37188,8 +37188,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
-      "issuerName": "./src/features/auth/SignUp.js",
+      "issuer": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
+      "issuerName": "./src/features/auth/Login.js",
       "issuerPath": [
         {
           "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/index.js",
@@ -37217,16 +37217,16 @@
           "id": 1075
         },
         {
-          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/SignUp.js",
-          "name": "./src/features/auth/SignUp.js",
-          "id": 7614
+          "identifier": "/home/mohammad/Desktop/Projects/aimoonx-dev/node_modules/babel-loader/lib/index.js!/home/mohammad/Desktop/Projects/aimoonx-dev/src/features/auth/Login.js",
+          "name": "./src/features/auth/Login.js",
+          "id": 2737
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 4595,
-      "issuerId": 7614,
+      "issuerId": 2737,
       "chunks": [
         614,
         737
@@ -38244,8 +38244,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "079ca65e371938d336b6",
       "version": "5.96.1",
-      "time": 274,
-      "builtAt": 1731487385759,
+      "time": 272,
+      "builtAt": 1731487774194,
       "publicPath": "",
       "outputPath": "/home/mohammad/Desktop/Projects/aimoonx-dev/dist",
       "assetsByChunkName": {},
