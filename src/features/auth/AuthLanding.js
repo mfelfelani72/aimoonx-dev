@@ -36,25 +36,29 @@ const AuthLanding = () => {
           ></img>
         </div>
         <div className="flex gap-2">
-          <div className="basis-1/2 h-14 px-4 py-2 bg-[#e57c43] rounded-2xl justify-center items-center inline-flex">
-            <Link className="flex gap-2" to="/login">
-              <div className="w-6 justify-center items-center">
-                <img
+         
+          <Link
+            className="basis-1/2 h-14 flex flex-row justify-center items-center bg-white/0 rounded-2xl !bg-[#e57c43]"
+            to="/login"
+          >
+            <div className="flex flex-row gap-2 ">
+              <div className="">
+              <img
                   alt="login"
                   src={login}
                   loading="lazy"
                   className="w-full h-full"
                 ></img>
               </div>
-              <div className="text-white font-bold font-['Yekan Bakh']">
-                {t("sign_in")}
-              </div>
-            </Link>
-          </div>
-
-          <div className="basis-1/2 px-4 py-2 bg-white/0 rounded-2xl border border-[#1f1e2e] justify-center items-center gap-2 inline-flex">
-            <Link className="flex gap-2" to="/sign-up">
-              <div className="justify-center items-center flex">
+              <div className="text-white font-bold">{t("sign_in")}</div>
+            </div>
+          </Link>
+          <Link
+            className="basis-1/2 flex flex-row justify-center items-center bg-white/0 rounded-2xl border border-[#1f1e2e]"
+            to="/sign-up"
+          >
+            <div className="flex flex-row gap-2 ">
+              <div className="">
                 <img
                   alt="sign-up"
                   src={plus}
@@ -63,8 +67,8 @@ const AuthLanding = () => {
                 ></img>
               </div>
               <div className="text-[#1f1e2e] font-bold">{t("sign_up")}</div>
-            </Link>
-          </div>
+            </div>
+          </Link>
         </div>
         <div className="flex">
           <div className="basis-1/3 h-[0px] my-6 border border-[#d9d9d9]"></div>
