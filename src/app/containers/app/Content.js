@@ -3,6 +3,7 @@ import { Routes, Route } from "react-router-dom";
 
 const LazyAuthLanding = lazy(() => import("../../../features/auth/AuthLanding.js"));
 const LazyLogin = lazy(() => import("../../../features/auth/Login.js"));
+const LazySignUp = lazy(() => import("../../../features/auth/SignUp.js"));
 
 const Content = () => {
   return (
@@ -10,6 +11,7 @@ const Content = () => {
       <Routes>
         <Route path="/" element={<LazyAuthLanding />}></Route>
         <Route path="/login" element={<LazyLogin />}></Route>
+        <Route path="/sign-up" element={<LazySignUp />}></Route>
 
        
       </Routes>

@@ -53,15 +53,17 @@ const AuthLanding = () => {
           </div>
 
           <div className="basis-1/2 px-4 py-2 bg-white/0 rounded-2xl border border-[#1f1e2e] justify-center items-center gap-2 inline-flex">
-            <div className="justify-center items-center flex">
-              <img
-                alt="sign-up"
-                src={plus}
-                loading="lazy"
-                className="w-full h-full"
-              ></img>
-            </div>
-            <div className="text-[#1f1e2e] font-bold">{t("sign_up")}</div>
+            <Link className="flex gap-2" to="/sign-up">
+              <div className="justify-center items-center flex">
+                <img
+                  alt="sign-up"
+                  src={plus}
+                  loading="lazy"
+                  className="w-full h-full"
+                ></img>
+              </div>
+              <div className="text-[#1f1e2e] font-bold">{t("sign_up")}</div>
+            </Link>
           </div>
         </div>
         <div className="flex">
@@ -81,7 +83,9 @@ const AuthLanding = () => {
                 className="w-full h-full"
               ></img>
             </div>
-            <div className="text-[#1f1e2e] font-bold">{t("register_telegram")}</div>
+            <div className="text-[#1f1e2e] font-bold">
+              {t("register_telegram")}
+            </div>
           </div>
         </div>
         <div className="flex mt-2">
