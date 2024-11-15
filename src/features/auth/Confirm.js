@@ -32,11 +32,11 @@ const Confirm = () => {
           {t("send_to")} aimoonx@gmail.com
         </div>
         <div className="flex flex-row  mx-auto gap-2 mt-8">
-          <div className="w-[calc(16vw)] md:w-[5rem] h-[calc(9vh)] md:h-[5rem] bg-[#dde9f6] rounded-2xl"></div>
-          <div className="w-[calc(16vw)] md:w-[5rem] h-[calc(9vh)] md:h-[5rem] bg-[#dde9f6] rounded-2xl"></div>
-          <div className="w-[calc(16vw)] md:w-[5rem] h-[calc(9vh)] md:h-[5rem] bg-[#dde9f6] rounded-2xl"></div>
-          <div className="w-[calc(16vw)] md:w-[5rem] h-[calc(9vh)] md:h-[5rem] bg-[#dde9f6] rounded-2xl"></div>
-          <div className="w-[calc(16vw)] md:w-[5rem] h-[calc(9vh)] md:h-[5rem] bg-[#dde9f6] rounded-2xl"></div>
+          <div className="w-[calc(16vw)] xs:w-[3.5rem] h-[calc(8vh)] xs:h-[3.5rem] bg-[#dde9f6] rounded-2xl"></div>
+          <div className="w-[calc(16vw)] xs:w-[3.5rem] h-[calc(8vh)] xs:h-[3.5rem] bg-[#dde9f6] rounded-2xl"></div>
+          <div className="w-[calc(16vw)] xs:w-[3.5rem] h-[calc(8vh)] xs:h-[3.5rem] bg-[#dde9f6] rounded-2xl"></div>
+          <div className="w-[calc(16vw)] xs:w-[3.5rem] h-[calc(8vh)] xs:h-[3.5rem] bg-[#dde9f6] rounded-2xl"></div>
+          <div className="w-[calc(16vw)] xs:w-[3.5rem] h-[calc(8vh)] xs:h-[3.5rem] bg-[#dde9f6] rounded-2xl"></div>
         </div>
         <div className="flex w-full gap-2 justify-center mt-16">
           <div className="flex items-center gap-2">
