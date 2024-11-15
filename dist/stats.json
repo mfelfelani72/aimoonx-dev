@@ -1,8 +1,8 @@
 {
-  "hash": "008ff7e38833b5038c3d",
+  "hash": "22043d4c4f761efd3477",
   "version": "5.96.1",
-  "time": 9365,
-  "builtAt": 1731662810799,
+  "time": 9500,
+  "builtAt": 1731663915021,
   "publicPath": "/",
   "outputPath": "/home/mohammad/Project in hand/aimoonx-dev/dist",
   "assetsByChunkName": {
@@ -34,15 +34,36 @@
     },
     {
       "type": "asset",
-      "name": "assets/images/icon-512x512.png",
-      "size": 258744,
+      "name": "assets/images/bgparti.png",
+      "size": 206950,
       "emitted": false,
       "comparedForEmit": true,
       "cached": false,
       "info": {
         "copied": true,
+        "sourceFilename": "assets/images/bgparti.png",
+        "size": 206950
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "assets/images/icon-512x512.png",
+      "size": 82416,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "copied": true,
         "sourceFilename": "assets/images/icon-512x512.png",
-        "size": 258744
+        "size": 82416
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -56,33 +77,12 @@
     {
       "type": "asset",
       "name": "icon-512x512.png",
-      "size": 258744,
-      "emitted": false,
-      "comparedForEmit": true,
+      "size": 82416,
+      "emitted": true,
+      "comparedForEmit": false,
       "cached": false,
       "info": {
-        "size": 258744
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [],
-      "auxiliaryChunkIdHints": [],
-      "related": [],
-      "chunks": [],
-      "auxiliaryChunks": [],
-      "isOverSizeLimit": false
-    },
-    {
-      "type": "asset",
-      "name": "assets/images/bgparti.png",
-      "size": 206950,
-      "emitted": false,
-      "comparedForEmit": true,
-      "cached": false,
-      "info": {
-        "copied": true,
-        "sourceFilename": "assets/images/bgparti.png",
-        "size": 206950
+        "size": 82416
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -166,27 +166,6 @@
     },
     {
       "type": "asset",
-      "name": "assets/images/icon-192x192.png",
-      "size": 49561,
-      "emitted": false,
-      "comparedForEmit": true,
-      "cached": false,
-      "info": {
-        "copied": true,
-        "sourceFilename": "assets/images/icon-192x192.png",
-        "size": 49561
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [],
-      "auxiliaryChunkIdHints": [],
-      "related": [],
-      "chunks": [],
-      "auxiliaryChunks": [],
-      "isOverSizeLimit": false
-    },
-    {
-      "type": "asset",
       "name": "551.cf945d8194229b664096.js.gz",
       "size": 41210,
       "emitted": false,
@@ -229,36 +208,15 @@
     },
     {
       "type": "asset",
-      "name": "assets/images/icon-144x144.png",
-      "size": 30664,
-      "emitted": false,
-      "comparedForEmit": true,
+      "name": "assets/images/icon-192x192.png",
+      "size": 15687,
+      "emitted": true,
+      "comparedForEmit": false,
       "cached": false,
       "info": {
         "copied": true,
-        "sourceFilename": "assets/images/icon-144x144.png",
-        "size": 30664
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [],
-      "auxiliaryChunkIdHints": [],
-      "related": [],
-      "chunks": [],
-      "auxiliaryChunks": [],
-      "isOverSizeLimit": false
-    },
-    {
-      "type": "asset",
-      "name": "assets/images/icon-96x96.png",
-      "size": 15227,
-      "emitted": false,
-      "comparedForEmit": true,
-      "cached": false,
-      "info": {
-        "copied": true,
-        "sourceFilename": "assets/images/icon-96x96.png",
-        "size": 15227
+        "sourceFilename": "assets/images/icon-192x192.png",
+        "size": 15687
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -334,15 +292,15 @@
     },
     {
       "type": "asset",
-      "name": "assets/images/icon-72x72.png",
-      "size": 9419,
-      "emitted": false,
-      "comparedForEmit": true,
+      "name": "assets/images/icon-144x144.png",
+      "size": 9810,
+      "emitted": true,
+      "comparedForEmit": false,
       "cached": false,
       "info": {
         "copied": true,
-        "sourceFilename": "assets/images/icon-72x72.png",
-        "size": 9419
+        "sourceFilename": "assets/images/icon-144x144.png",
+        "size": 9810
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -627,9 +585,9 @@
       "type": "asset",
       "name": "main-c9c31c89.e6cfd5a1f13f0cf8a2cc.js.gz",
       "size": 6404,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "compressed": true,
         "immutable": true,
@@ -646,11 +604,32 @@
     },
     {
       "type": "asset",
-      "name": "512.77a73a6c396ad7172a25.js",
-      "size": 5607,
+      "name": "assets/images/icon-96x96.png",
+      "size": 5683,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
+      "info": {
+        "copied": true,
+        "sourceFilename": "assets/images/icon-96x96.png",
+        "size": 5683
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "512.77a73a6c396ad7172a25.js",
+      "size": 5607,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
       "info": {
         "immutable": true,
         "contenthash": "77a73a6c396ad7172a25",
@@ -673,9 +652,9 @@
       "type": "asset",
       "name": "614.f46e58f2a8b9f253099f.js",
       "size": 5382,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "immutable": true,
         "contenthash": "f46e58f2a8b9f253099f",
@@ -743,15 +722,15 @@
     },
     {
       "type": "asset",
-      "name": "assets/images/icon-48x48.png",
-      "size": 4759,
-      "emitted": false,
-      "comparedForEmit": true,
+      "name": "assets/images/icon-72x72.png",
+      "size": 4153,
+      "emitted": true,
+      "comparedForEmit": false,
       "cached": false,
       "info": {
         "copied": true,
-        "sourceFilename": "assets/images/icon-48x48.png",
-        "size": 4759
+        "sourceFilename": "assets/images/icon-72x72.png",
+        "size": 4153
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -809,27 +788,6 @@
     },
     {
       "type": "asset",
-      "name": "assets/images/icon-36x36.png",
-      "size": 2978,
-      "emitted": false,
-      "comparedForEmit": true,
-      "cached": false,
-      "info": {
-        "copied": true,
-        "sourceFilename": "assets/images/icon-36x36.png",
-        "size": 2978
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [],
-      "auxiliaryChunkIdHints": [],
-      "related": [],
-      "chunks": [],
-      "auxiliaryChunks": [],
-      "isOverSizeLimit": false
-    },
-    {
-      "type": "asset",
       "name": "976.cb7e37352576080ff55f.js",
       "size": 2960,
       "emitted": false,
@@ -866,6 +824,48 @@
         "copied": true,
         "sourceFilename": "assets/images/aimoonPic.png",
         "size": 2942
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "assets/images/icon-48x48.png",
+      "size": 2658,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "copied": true,
+        "sourceFilename": "assets/images/icon-48x48.png",
+        "size": 2658
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "assets/images/icon-36x36.png",
+      "size": 1866,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "copied": true,
+        "sourceFilename": "assets/images/icon-36x36.png",
+        "size": 1866
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -939,16 +939,16 @@
     },
     {
       "type": "asset",
-      "name": "85844e0ca7f47950c7a0.json",
-      "size": 964,
-      "emitted": false,
+      "name": "9c82d0af03232155e354.json",
+      "size": 956,
+      "emitted": true,
       "comparedForEmit": false,
-      "cached": true,
+      "cached": false,
       "info": {
         "sourceFilename": "manifest.json",
         "immutable": true,
-        "contenthash": "85844e0ca7f47950c7a0",
-        "size": 964
+        "contenthash": "9c82d0af03232155e354",
+        "size": 956
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -40757,25 +40757,25 @@
   "children": [
     {
       "name": "HtmlWebpackCompiler",
-      "hash": "15484cf27010de749812",
+      "hash": "7e1df9c19704ca7ea644",
       "version": "5.96.1",
-      "time": 486,
-      "builtAt": 1731662801960,
+      "time": 457,
+      "builtAt": 1731663906017,
       "publicPath": "",
       "outputPath": "/home/mohammad/Project in hand/aimoonx-dev/dist",
       "assetsByChunkName": {},
       "assets": [
         {
           "type": "asset",
-          "name": "85844e0ca7f47950c7a0.json",
-          "size": 964,
+          "name": "9c82d0af03232155e354.json",
+          "size": 956,
           "emitted": false,
           "comparedForEmit": false,
           "cached": true,
           "info": {
             "sourceFilename": "manifest.json",
             "immutable": true,
-            "contenthash": "85844e0ca7f47950c7a0"
+            "contenthash": "9c82d0af03232155e354"
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -40797,10 +40797,10 @@
           "initial": true,
           "entry": true,
           "recorded": false,
-          "size": 3090,
+          "size": 3082,
           "sizes": {
             "javascript": 572,
-            "asset": 964,
+            "asset": 956,
             "runtime": 1554
           },
           "names": [
@@ -40812,9 +40812,9 @@
           ],
           "files": [],
           "auxiliaryFiles": [
-            "85844e0ca7f47950c7a0.json"
+            "9c82d0af03232155e354.json"
           ],
-          "hash": "d6cfb9e62eaafbf0479f",
+          "hash": "2c944ef0fca9beabb228",
           "childrenByOrder": {},
           "id": 795,
           "siblings": [],
@@ -40827,7 +40827,7 @@
               "layer": null,
               "size": 42,
               "sizes": {
-                "asset": 964,
+                "asset": 956,
                 "javascript": 42
               },
               "built": true,
@@ -41386,7 +41386,7 @@
           "layer": null,
           "size": 42,
           "sizes": {
-            "asset": 964,
+            "asset": 956,
             "javascript": 42
           },
           "built": true,
@@ -41664,7 +41664,7 @@
           "assetsSize": 0,
           "auxiliaryAssets": [
             {
-              "name": "85844e0ca7f47950c7a0.json"
+              "name": "9c82d0af03232155e354.json"
             }
           ],
           "filteredAuxiliaryAssets": 0,
@@ -41685,7 +41685,7 @@
           "assetsSize": 0,
           "auxiliaryAssets": [
             {
-              "name": "85844e0ca7f47950c7a0.json"
+              "name": "9c82d0af03232155e354.json"
             }
           ],
           "filteredAuxiliaryAssets": 0,

@@ -1,10 +1,10 @@
 {
-    "name": "React Builer",
-    "short_name": "Builer",
+    "name": "AimmonX",
+    "short_name": "AimoonX",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
-    "description": "M.felfelani",
+    "description": "AimmonX",
     "icons": [
       {
         "src": "./assets/images/icon-36x36.png",
