@@ -14,7 +14,7 @@ const AuthLanding = () => {
   const { t } = useTranslation();
 
   return (
-    <div className="md:justify-self-center md:w-[30rem] bg-rose">
+    <div className="xs:justify-self-center xs:w-[20rem]">
       <div className="flex flex-col justify-end h-[calc(100vh-2rem)]">
         <div className="flex flex-row">
           <img

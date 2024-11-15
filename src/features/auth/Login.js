@@ -8,7 +8,7 @@ import lock from "../../../assets/icons/svg/Lock.svg";
 const Login = () => {
   const { t } = useTranslation();
   return (
-    <div className="justify-self-center md:w-[30rem]">
+    <div className="xs:justify-self-center xs:w-[20rem]">
       <div className="flex flex-col justify-start mt-2 h-[calc(100vh-6rem)]">
         <div className="flex text-[#1f1e2e] text-xl font-bold">
           {t("sign_in")}

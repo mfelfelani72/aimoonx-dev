@@ -9,7 +9,7 @@ import call from "../../../assets/icons/svg/Call.svg";
 const SignUp = () => {
   const { t } = useTranslation();
   return (
-    <div className="sm:justify-self-center sm:w-[30rem]">
+    <div className="xs:justify-self-center xs:w-[20rem]">
       <div className="flex flex-col justify-start mt-2 h-[calc(100vh-6rem)]">
         <div className="flex text-[#1f1e2e] text-xl font-bold">
           {t("sign_up")}

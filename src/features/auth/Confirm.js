@@ -11,7 +11,7 @@ import clock from "../../../assets/icons/svg/tc.svg";
 const Confirm = () => {
   const { t } = useTranslation();
   return (
-    <div className="justify-self-center md:w-[30rem]">
+    <div className="xs:justify-self-center xs:w-[20rem]">
       <div className="flex flex-col justify-start h-[calc(100vh-4rem)]">
         <Link to="/sign-up">
           <div className="w-full justify-start items-center inline-flex mt-1">
