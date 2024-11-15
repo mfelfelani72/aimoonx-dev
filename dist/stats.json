@@ -1,8 +1,8 @@
 {
-  "hash": "a5ab16b8b5d667c0e64d",
+  "hash": "008ff7e38833b5038c3d",
   "version": "5.96.1",
-  "time": 9672,
-  "builtAt": 1731662283365,
+  "time": 9365,
+  "builtAt": 1731662810799,
   "publicPath": "/",
   "outputPath": "/home/mohammad/Project in hand/aimoonx-dev/dist",
   "assetsByChunkName": {
@@ -564,9 +564,9 @@
       "type": "asset",
       "name": "333.981d3241521edc82c69a.js.gz",
       "size": 7434,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "compressed": true,
         "immutable": true,
@@ -625,15 +625,15 @@
     },
     {
       "type": "asset",
-      "name": "main-c9c31c89.ed9173e00c0906a01042.js.gz",
-      "size": 6408,
+      "name": "main-c9c31c89.e6cfd5a1f13f0cf8a2cc.js.gz",
+      "size": 6404,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "compressed": true,
         "immutable": true,
-        "size": 6408
+        "size": 6404
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -646,17 +646,17 @@
     },
     {
       "type": "asset",
-      "name": "512.cb5e11e22b88aff88bab.js",
-      "size": 5606,
+      "name": "512.77a73a6c396ad7172a25.js",
+      "size": 5607,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "contenthash": "cb5e11e22b88aff88bab",
+        "contenthash": "77a73a6c396ad7172a25",
         "javascriptModule": false,
         "minimized": true,
-        "size": 5606
+        "size": 5607
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -671,17 +671,17 @@
     },
     {
       "type": "asset",
-      "name": "614.80e4d723840c399a1896.js",
-      "size": 5389,
+      "name": "614.f46e58f2a8b9f253099f.js",
+      "size": 5382,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "contenthash": "80e4d723840c399a1896",
+        "contenthash": "f46e58f2a8b9f253099f",
         "javascriptModule": false,
         "minimized": true,
-        "size": 5389
+        "size": 5382
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -766,9 +766,9 @@
       "type": "asset",
       "name": "737.1ebb0a92ef33c8367323.js",
       "size": 3973,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "immutable": true,
         "contenthash": "1ebb0a92ef33c8367323",
@@ -4220,9 +4220,9 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "size": 6569,
+      "size": 6572,
       "sizes": {
-        "javascript": 6569
+        "javascript": 6572
       },
       "names": [],
       "idHints": [],
@@ -4230,10 +4230,10 @@
         "main"
       ],
       "files": [
-        "512.cb5e11e22b88aff88bab.js"
+        "512.77a73a6c396ad7172a25.js"
       ],
       "auxiliaryFiles": [],
-      "hash": "42c6379402181008193a",
+      "hash": "14f4fc3e0dd9ce6b730e",
       "childrenByOrder": {},
       "id": 512,
       "siblings": [],
@@ -4319,7 +4319,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/ar.svg",
-              "loc": "6:0-58",
+              "loc": "6:0-59",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -4333,7 +4333,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../../../assets/icons/svg/ar.svg",
-              "loc": "24:9-19",
+              "loc": "24:9-20",
               "moduleId": 7512,
               "resolvedModuleId": 7512
             },
@@ -4603,9 +4603,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 3403,
+          "size": 3406,
           "sizes": {
-            "javascript": 3403
+            "javascript": 3406
           },
           "built": true,
           "codeGenerated": true,
@@ -6473,9 +6473,9 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "size": 6606,
+      "size": 6599,
       "sizes": {
-        "javascript": 6606
+        "javascript": 6599
       },
       "names": [],
       "idHints": [],
@@ -6483,10 +6483,10 @@
         "main"
       ],
       "files": [
-        "614.80e4d723840c399a1896.js"
+        "614.f46e58f2a8b9f253099f.js"
       ],
       "auxiliaryFiles": [],
-      "hash": "5d0a93f7261df4664885",
+      "hash": "824eb4b7ad6dd9e60bfc",
       "childrenByOrder": {},
       "id": 614,
       "siblings": [],
@@ -6913,9 +6913,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 4602,
+          "size": 4595,
           "sizes": {
-            "javascript": 4602
+            "javascript": 4595
           },
           "built": true,
           "codeGenerated": true,
@@ -18201,9 +18201,9 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 30022,
+      "size": 30007,
       "sizes": {
-        "javascript": 21592,
+        "javascript": 21577,
         "runtime": 8430
       },
       "names": [
@@ -18215,7 +18215,7 @@
       ],
       "files": [],
       "auxiliaryFiles": [],
-      "hash": "8613b4df198df0f1d2fa",
+      "hash": "ecbfad6c54249d29b600",
       "childrenByOrder": {},
       "id": 838,
       "siblings": [
@@ -18237,9 +18237,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 21592,
+          "size": 21577,
           "sizes": {
-            "javascript": 21592
+            "javascript": 21577
           },
           "built": true,
           "codeGenerated": true,
@@ -32246,9 +32246,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 21592,
+      "size": 21577,
       "sizes": {
-        "javascript": 21592
+        "javascript": 21577
       },
       "built": true,
       "codeGenerated": true,
@@ -37512,9 +37512,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 4602,
+      "size": 4595,
       "sizes": {
-        "javascript": 4602
+        "javascript": 4595
       },
       "built": true,
       "codeGenerated": true,
@@ -37602,9 +37602,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 3403,
+      "size": 3406,
       "sizes": {
-        "javascript": 3403
+        "javascript": 3406
       },
       "built": true,
       "codeGenerated": true,
@@ -39790,7 +39790,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/ar.svg",
-          "loc": "6:0-58",
+          "loc": "6:0-59",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -39804,7 +39804,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../../../assets/icons/svg/ar.svg",
-          "loc": "24:9-19",
+          "loc": "24:9-20",
           "moduleId": 7512,
           "resolvedModuleId": 7512
         },
@@ -40759,8 +40759,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "15484cf27010de749812",
       "version": "5.96.1",
-      "time": 636,
-      "builtAt": 1731662274386,
+      "time": 486,
+      "builtAt": 1731662801960,
       "publicPath": "",
       "outputPath": "/home/mohammad/Project in hand/aimoonx-dev/dist",
       "assetsByChunkName": {},
