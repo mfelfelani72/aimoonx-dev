@@ -36,7 +36,7 @@ const SignUp = () => {
             <div className="basis-1/2 peer-checked/tab1:bg-white hover:bg-slate-50 py-1.5 rounded-xl text-center text-[#1f1e2e] text-sm">
               <label
                 htmlFor="tab1"
-                className="tab-button cursor-pointer px-[calc(10.2vw)] md:px-[calc(8.5vw)] md:py-2 select-none"
+                className="tab-button cursor-pointer px-[calc(10.2vw)] py-1.5 xs:px-[2rem] xs:py-2 select-none"
               >
                 {t("email")}
               </label>
@@ -44,7 +44,7 @@ const SignUp = () => {
             <div className="basis-1/2 peer-checked/tab2:bg-white hover:bg-slate-50 py-1.5 rounded-xl text-center text-[#1f1e2e] text-sm">
               <label
                 htmlFor="tab2"
-                className="tab-button cursor-pointer px-[calc(10.2vw)] py-1.5 md:px-[calc(8.5vw)] md:py-2 select-none"
+                className="tab-button cursor-pointer px-[calc(10.2vw)] py-1.5 xs:px-[2rem] xs:py-2 select-none"
               >
                 {t("phone_number")}
               </label>

@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
 
 // svg
-import arow_right from "../../../assets/icons/svg/ar.svg";
+import arrow_right from "../../../assets/icons/svg/ar.svg";
 import arrow_circle from "../../../assets/icons/svg/tp.svg";
 import clock from "../../../assets/icons/svg/tc.svg";
 
@@ -17,8 +17,8 @@ const Confirm = () => {
           <div className="w-full justify-start items-center inline-flex mt-1">
             <div className="bg-[#f2f2f3] rounded-2xl px-5 py-3.5 ltr:rotate-180">
               <img
-                alt="arow_right"
-                src={arow_right}
+                alt="arrow_right"
+                src={arrow_right}
                 loading="lazy"
                 className="w-full h-full"
               ></img>
